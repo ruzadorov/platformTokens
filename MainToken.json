@@ -821,10 +821,1911 @@
       }
     }
   },
-  "$themes": [],
+  "Theme/Light": {
+    "Background": {
+      "Background 1": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Background 1\n(BG 1)\n\n- Light theme\n- Primary surface\n- White #FFFFFF"
+      },
+      "Background 1 Hover": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "description": "Background 1 Hover\n(BG 1 Hover)\n\n- Light theme\n- Primary surface interactive hover state\n- Grey 96 #F5F5F5"
+      },
+      "Background 1 Pressed": {
+        "value": "#e0e0e0",
+        "type": "color",
+        "description": "Background 1 Pressed\n(BG 1 Pressed)\n\n- Light theme\n- Primary surface interactive pressed state\n- Grey 88 #E0E0E0"
+      },
+      "Background 1 Selected": {
+        "value": "#ebebeb",
+        "type": "color",
+        "description": "Background 1 Selected\n(BG 1 Selected)\n\n- Light theme\n- Primary surface interactive selected state\n- Grey 92 #EBEBEB"
+      },
+      "Background 2": {
+        "value": "#fafafa",
+        "type": "color",
+        "description": "Background 2\n(BG 2)\n\n- Light theme\n- Secondary surface\n- Grey 98 #FAFAFA"
+      },
+      "Background 2 Hover": {
+        "value": "#f0f0f0",
+        "type": "color",
+        "description": "Background 2 Hover\n(BG 2 Hover) \n\n- Light theme\n- Secondary surface interactive hover state\n- Grey 94 #F0F0F0"
+      },
+      "Background 2 Pressed": {
+        "value": "#dbdbdb",
+        "type": "color",
+        "description": "Background 2 Pressed\n(BG 2 Pressed)\n\n- Light theme\n- Secondary surface interactive pressed state\n- Grey 86 #DBDBDB"
+      },
+      "Background 2 Selected": {
+        "value": "#e6e6e6",
+        "type": "color",
+        "description": "Background 2\n(BG 2 Selected)\n\n- Light theme\n- Secondary surface interactive selected state\n- Grey 90 #E6E6E6"
+      },
+      "Background 3": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "description": "Background 3\n(BG 3)\n\n- Light theme\n- Tertiary surface\n- Grey 96 #F5F5F5"
+      },
+      "Background 3 Hover": {
+        "value": "#ebebeb",
+        "type": "color",
+        "description": "Background 3 Hover\n(BG 3 Hover)\n\n- Light theme\n- Tertiary surface interactive hover state\n- Grey 92 #EBEBEB"
+      },
+      "Background 3 Pressed": {
+        "value": "#d6d6d6",
+        "type": "color",
+        "description": "Background 3 Pressed\n(BG 3 Pressed)\n\n- Light theme\n- Tertiary surface interactive pressed state\n- Grey 84 #D6D6D6"
+      },
+      "Background 3 Selected": {
+        "value": "#e0e0e0",
+        "type": "color",
+        "description": "Background 3 Selected\n(BG 3 Selected)\n\n- Light theme\n- Tertiary surface interactive selected state\n- Grey 88 #E0E0E0"
+      },
+      "Background 4": {
+        "value": "#f0f0f0",
+        "type": "color",
+        "description": "Background 4\n(BG 4)\n\n- Light theme\n- Quaternary surface\n- Grey 94 #F0F0F0"
+      },
+      "Background 4 Hover": {
+        "value": "#fafafa",
+        "type": "color",
+        "description": "Background 4 Hover\n(BG 4 Hover)\n\n- Light theme\n- Quaternary surface interactive hover state\n- Grey 98 #FAFAFA"
+      },
+      "Background 4 Pressed": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "description": "Background 4 Pressed\n(BG 4 Pressed)\n\n- Light theme\n- Quaternary surface interactive pressed state\n- Grey 96 #F5F5F5"
+      },
+      "Background 4 Selected": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Background 4 Selected\n(BG 4 Selected)\n\n- Light theme\n- Quaternary surface interactive selected state\n- White #FFFFFF"
+      },
+      "Background 5": {
+        "value": "#ebebeb",
+        "type": "color",
+        "description": "Background 5\n(BG 5)\n\n- Light theme\n- Quinary surface\n- Grey 92 #EBEBEB"
+      },
+      "Background 5 Hover": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "description": "Background 5 Hover\n(BG 5 Hover)\n\n- Light theme\n- Quinary surface interactive hover state\n- Grey 96 #F5F5F5"
+      },
+      "Background 5 Pressed": {
+        "value": "#f0f0f0",
+        "type": "color",
+        "description": "Background 5 Pressed\n(BG 5 Pressed)\n\n- Light theme\n- Quinary surface interactive pressed state\n- Grey 94 #F0F0F0"
+      },
+      "Background 5 Selected": {
+        "value": "#fafafa",
+        "type": "color",
+        "description": "Background 5 Selected\n(BG 5 Selected)\n\n- Light theme\n- Quinary surface interactive selected state\n- Grey 98 #FAFAFA"
+      },
+      "Background 6": {
+        "value": "#e6e6e6",
+        "type": "color",
+        "description": "Background 6\n(BG 6)\n\n- Light theme\n- On quinary surface\n- Grey 90 #E6E6E6"
+      },
+      "Background Inverted": {
+        "value": "#292929",
+        "type": "color",
+        "description": "Background Inverted\n(BG Inverted)\n\n- Light theme\n- Inverted background color\n- Grey 16 #292929"
+      },
+      "Background Alpha": {
+        "value": "#ffffff80",
+        "type": "color",
+        "description": "Background Alpha\nLight theme\nWhite 50%"
+      },
+      "Background Alpha 2": {
+        "value": "#ffffffcc",
+        "type": "color",
+        "description": "Background Alpha 2\nLight theme\nWhite 80%"
+      },
+      "Background Static": {
+        "value": "#333333",
+        "type": "color",
+        "description": "Background Static\n(BG Static)\n\n- Light theme\n- Static background color\n- Grey 20 #333333"
+      },
+      "Subtle Background": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Subtle Background\n(Subtle BG) \n\n- Light theme\n- White #FFFFFF 0%"
+      },
+      "Subtle Background Hover": {
+        "value": "#f5f5f5",
+        "type": "color",
+        "description": "Subtle Background\n(Subtle BG Hover) \n\n- Light theme\n- Grey 96 #F5F5F5"
+      },
+      "Subtle Background Pressed": {
+        "value": "#e0e0e0",
+        "type": "color",
+        "description": "Subtle Background Pressed\n(Subtle BG Pressed) \n\n- Light theme\n- Grey 88 #E0E0E0"
+      },
+      "Subtle Background Selected": {
+        "value": "#ebebeb",
+        "type": "color",
+        "description": "Subtle Background Selected\n(Subtle BG Selected)\n\n- Light theme\n- Grey 92 #EBEBEB"
+      },
+      "Subtle Background Light Alpha Hover": {
+        "value": "#ffffffb3",
+        "type": "color",
+        "description": "Subtle Background Light Alpha Hover\n(Subtle BG Light Alpha Hover)\n\n- Light theme\n- White #FFFFFF 70%"
+      },
+      "Subtle Background Light Alpha Pressed": {
+        "value": "#ffffff80",
+        "type": "color",
+        "description": "Subtle Background Light Alpha Pressed\n(Subtle BG Light Alpha Pressed)\n\n- Light theme\n- White #FFFFFF 50%"
+      },
+      "Subtle Background Light Alpha Selected": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Subtle Background Light Alpha Selected\n(Subtle BG Light Alpha Selected)\n\n- Light theme\n- White #FFFFFF 0%"
+      },
+      "Subtle Background Inverted": {
+        "value": "#00000000",
+        "type": "color",
+        "description": "Subtle Background Inverted\n(Subtle BG Inverted)\n\n- Light theme\n- White #FFFFFF 0%"
+      },
+      "Subtle Background Inverted Hover": {
+        "value": "#0000001a",
+        "type": "color",
+        "description": "Subtle Background Inverted Hover\n(Subtle BG Inverted Hover)\n\n- Light theme\n- Black #000000 10%"
+      },
+      "Subtle Background Inverted Pressed": {
+        "value": "#0000004d",
+        "type": "color",
+        "description": "Subtle Background Inverted Pressed\n(Subtle BG Inverted Pressed)\n\n- Light theme\n- Black #000000 30%"
+      },
+      "Subtle Background Inverted Selected": {
+        "value": "#00000033",
+        "type": "color",
+        "description": "Subtle Background Inverted Selected\n(Subtle BG Inverted Selected)\n\n- Light theme\n- Black #000000 20%"
+      },
+      "Transparent Background": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent Background\n(Transparent BG)\n\n- Light theme\n- White #FFFFFF 0%"
+      },
+      "Transparent Background Hover": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent Background Hover\n(Transparent BG Hover)\n\n- Light theme\n- White #FFFFFF 0%"
+      },
+      "Transparent Background Pressed": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent Background Pressed\n(Transparent BG Pressed)\n\n- Light theme\n- White #FFFFFF 0%"
+      },
+      "Transparent Background Selected": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent Background Selected\n(Transparent BG Selected)\n\n- Light theme\n- White #FFFFFF 0%"
+      },
+      "Background Disabled": {
+        "value": "#f0f0f0",
+        "type": "color",
+        "description": "Background Disabled\n(BG Disabled)\n\n- Light theme\n- Grey 94 #F0F0F0"
+      },
+      "Background Inverted Disabled": {
+        "value": "#ffffff1a",
+        "type": "color",
+        "description": "Background Inverted Disabled\n(BG Inverted Disabled)\n\n- Light theme\n- White #FFFFFF 10%"
+      },
+      "Stencil 1": {
+        "value": "#e6e6e6",
+        "type": "color",
+        "description": "Stencil 1\n(ST 1)\n\n- Light theme\n- Grey 90 #E6E6E6"
+      },
+      "Stencil 2": {
+        "value": "#fafafa",
+        "type": "color",
+        "description": "Stencil 2\n(ST 2)\n\n- Light theme\n- Grey 98 #FAFAFA"
+      },
+      "Background Overlay": {
+        "value": "#00000066",
+        "type": "color",
+        "description": "Background Overlay\n(BG Overlay)\n\n- Light theme\n- Black #000000 40%"
+      },
+      "Scrollbar Overlay": {
+        "value": "#00000080",
+        "type": "color",
+        "description": "Scrollbar Overlay\n\n- Light theme\n- Black #000000 50%"
+      },
+      "Error Background": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Error Background Hover": {
+        "value": "{Error.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Error Background Pressed": {
+        "value": "{Error.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Error Background Selected": {
+        "value": "{Error.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Success Background": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Success Background Hover": {
+        "value": "{Success.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Success Background Pressed": {
+        "value": "{Success.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Success Background Selected": {
+        "value": "{Success.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Warning Background": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Warning Background Hover": {
+        "value": "{Warning.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Warning Background Pressed": {
+        "value": "{Warning.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Warning Background Selected": {
+        "value": "{Warning.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Background": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Background Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Background Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Brand Background Selected": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Compound Brand Background": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Compound Brand Background\n(Compound BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Compound Brand Background Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Compound Brand Background Hover\n(Compound BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Compound Brand Background Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Compound Brand Background Pressed\n(Compound BBG Pressed)\n\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Background Static": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Background Static\n(BBG Static)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Background 2": {
+        "value": "{Primary.50}",
+        "type": "color",
+        "description": "Brand Background 2\n(BBG 2)\n\n- Light theme\n- Comm 160 #EBF3FC"
+      },
+      "Brand Background 2 Hover": {
+        "value": "{Primary.100}",
+        "type": "color",
+        "description": "Brand BG 2 Hover\n\nTint background hover\nLight theme\nComm 150 (#CFE4FA)"
+      },
+      "Brand Background 2 Pressed": {
+        "value": "{Primary.200}",
+        "type": "color",
+        "description": "Brand BG 2 Pressed\n\nTint background pressed\nLight theme\nComm 130 (#96C6FA)"
+      },
+      "Brand Background Inverted": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Brand Background Inverted\n(BBG Inverted)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Brand Background Inverted Hover": {
+        "value": "{Primary.100}",
+        "type": "color",
+        "description": "Brand Background Inverted Hover\n(BBG Inverted Hover)\n\n- Light theme\n- Comm 160 #EBF3FC"
+      },
+      "Brand Background Inverted Pressed": {
+        "value": "{Primary.200}",
+        "type": "color",
+        "description": "Brand Background Inverted Pressed\n(BBG Inverted Pressed)\n\n- Light theme\n- Comm 140 #B4D6FA"
+      },
+      "Brand Background Inverted Selected": {
+        "value": "{Primary.300}",
+        "type": "color",
+        "description": "Brand Background Inverted Selected\n(BBG Inverted Selected)\n\n- Light theme\n- Comm 150 #CFE4FA"
+      }
+    },
+    "Foreground": {
+      "Foreground 1": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 1\n(FG 1)\n\n- Light theme\n- Primary foreground color\n- Grey 14 #242424"
+      },
+      "Foreground 1 Hover": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 1 Hover\n(FG 1 Hover)\n\n- Light theme\n- Primary foreground color hover state\n- Grey 14 #242424"
+      },
+      "Foreground 1 Pressed": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 1 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Primary foreground color pressed state\n- Grey 14 #242424"
+      },
+      "Foreground 1 Selected": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 1 Selected\n(FG 1 Selected)\n\n- Light theme\n- Primary foreground color selected state\n- Grey 14 #242424"
+      },
+      "Foreground 2": {
+        "value": "#424242",
+        "type": "color",
+        "description": "Foreground 2\n(FG 2)\n\n- Light theme\n- Secondary foreground color\n- Grey 26 #424242"
+      },
+      "Foreground 2 Hover": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 2 Hover\n(FG 2 Hover)\n\n- Light theme\n- Secondary foreground color hover state\n- Grey 14 #242424"
+      },
+      "Foreground 2 Pressed": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 2 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Secondary foreground color pressed state\n- Grey 14 #242424"
+      },
+      "Foreground 2 Selected": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 2 Selected\n(FG 2 Selected)\n\n- Light theme\n- Secondary foreground color selected state\n- Grey 14 #242424"
+      },
+      "Foreground 2 Brand Hover": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Foreground 2 Brand Hover\n(FG 2 Brand Hover)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 2 Brand Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Foreground 2 Brand Pressed\n(FG 2 Brand Pressed)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Foreground 2 Brand Selected": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Foreground 2 Brand Selected\n(FG 2 Brand Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 3": {
+        "value": "#616161",
+        "type": "color",
+        "description": "Foreground 3\n(FG 3)\n\n- Light theme\n- Tertiary foreground color\n- Grey 38 #616161"
+      },
+      "Foreground 3 Hover": {
+        "value": "#424242",
+        "type": "color",
+        "description": "Foreground 3 Hover\n(FG 3 Hover)\n\n- Light theme\n- Tertiary foreground color hover state\n- Grey 26 #424242"
+      },
+      "Foreground 3 Pressed": {
+        "value": "#424242",
+        "type": "color",
+        "description": "Foreground 3 Pressed\n(FG 3 Pressed)\n\n- Light theme\n- Tertiary foreground color pressed state\n- Grey 26 #424242"
+      },
+      "Foreground 3 Selected": {
+        "value": "#424242",
+        "type": "color",
+        "description": "Foreground 3 Selected\n(FG 3 Selected)\n\n- Light theme\n- Tertiary foreground color selected state\n- Grey 26 #424242"
+      },
+      "Foreground 3 Brand Hover": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Foreground 3 Brand Hover\n(FG 3 Brand Hover)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 3 Brand Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Foreground 3 Brand Pressed\n(FG 3 Brand Pressed)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Foreground 3 Brand Selected": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Foreground 3 Brand Selected\n(FG 3 Brand Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 4": {
+        "value": "#707070",
+        "type": "color",
+        "description": "Foreground 4\n(FG 4)\n\n- Light theme\n- Quaternary foreground color.\n- Grey 44 #707070"
+      },
+      "Foreground Disabled": {
+        "value": "#bdbdbd",
+        "type": "color",
+        "description": "Foreground Disabled\n(FG Disabled)\n\n- Light theme\n- Disabled foreground\n- Grey 74 #BDBDBD"
+      },
+      "Foreground Inverted Disabled": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "Foreground Inverted Disabled\n(FG Inverted Disabled)\n\n- Light theme\n- White #FFFFFF 40%"
+      },
+      "Foreground 2 Link": {
+        "value": "#424242",
+        "type": "color",
+        "description": "Foreground 2 Link\n(FG 2 Link)\n\n- Light theme\n- Grey 26 #424242"
+      },
+      "Foreground 2 Link Hover": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 2 Link Hover\n(FG 2 Link Hover)\n\n- Light theme\n- Grey 14 #242424"
+      },
+      "Foreground 2 Link Pressed": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 2 Link Pressed\n(FG 2 Link Pressed)\n\n- Light theme\n- Grey 14 #242424"
+      },
+      "Foreground 2 Link Selected": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 2 Link Selected\n(FG 2 Link Selected)\n\n- Light theme\n- Grey 14 #242424"
+      },
+      "Foreground 1 Static": {
+        "value": "#242424",
+        "type": "color",
+        "description": "Foreground 1 Static\n(FG 1 Static)\n\n- Light theme\n- Static foreground color on light and dark theme\n- Grey 14 #242424"
+      },
+      "Foreground Static Inverted": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Static Inverted\n(FG Static Inverted)\n\n- Light theme\n- Inverted static foreground\n- White #FFFFFF"
+      },
+      "Foreground Inverted": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted\n(FG Inverted)\n\n- Light theme\n- Inverted foreground used on brand backgrounds\n- White #FFFFFF"
+      },
+      "Foreground Inverted 2": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted 2\n(FG Inverted 2)\n\n- Light theme\n- Inverted foreground used on neutral backgrounds\n- White #FFFFFF"
+      },
+      "Foreground Inverted Hover": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted Hover\n(FG Inverted Hover)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Foreground Inverted Pressed": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted Pressed\n(FG Inverted Pressed)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Foreground Inverted Selected": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted Selected\n(FG Inverted Selected)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Foreground On Brand": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground on Brand\n(FG on Brand)\n\n- Light theme\n- Foreground on brand background\n- White #FFFFFF"
+      },
+      "Foreground Inverted Link": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted Link\n(FG Inverted Link)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Foreground Inverted Link Hover": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted Link Hover\n(FG Inverted Link Hover)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Foreground Inverted Link Pressed": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted Link Pressed\n(FG Inverted Link Pressed)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Foreground Inverted Link Selected": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Foreground Inverted Link Selected\n(FG Inverted Link Selected)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Brand Foreground 1": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Foreground 1\n(BFG 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Foreground 2": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Foreground 2\n(BFG 2)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Foreground 2 Hover": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand FG 2 Hover\n\nTint brand foreground hover\nLight theme\nComm 60 ({Primary.800})"
+      },
+      "Brand Foreground 2 Pressed": {
+        "value": "{Primary.900}",
+        "type": "color",
+        "description": "Brand FG 2 Pressed\n\nTint brand foreground pressed state\nLight theme\nComm 30 (#0A2E4A)"
+      },
+      "Brand Foreground Link": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Foreground Link\n(BFG Link)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Foreground Link Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Foreground Link Hover\n(BFG Link Hover)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Foreground Link Pressed": {
+        "value": "{Primary.900}",
+        "type": "color",
+        "description": "Brand Foreground Link Pressed\n(BFG Link Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Brand Foreground Link Selected": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Foreground Link Selected\n(BFG Link Selected)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Compound Brand Foreground 1": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Compound Brand Foreground 1\n(Compound BFG 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Compound Brand Foreground 1 Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Compound Brand Foreground 1 Hover\n(Compound BFG 1 Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Compound Brand Foreground 1 Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Compound Brand Foreground 1 Pressed\n(Compound BFG 1 Pressed)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Foreground Inverted": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Foreground Inverted\n(BFG Inverted)\n\n- Light theme\n- Comm 100 #479EF5"
+      },
+      "Brand Foreground Inverted Hover": {
+        "value": "{Primary.400}",
+        "type": "color",
+        "description": "Brand Foreground Inverted Hover\n(BFG Inverted Hover)\n\n- Light theme\n- Comm 110 #62ABF5"
+      },
+      "Brand Foreground Inverted Pressed": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Foreground Inverted Pressed\n(BFG Inverted Pressed)\n\n- Light theme\n- Comm 100 #479EF5"
+      },
+      "Brand Foreground on Light": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Foreground on Light\n(BFG on Light)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Foreground on Light Hover": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Foreground on Light Hover\n(BFG on Light Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Foreground on Light Pressed": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand Foreground on Light Pressed\n(BFG on Light Pressed)\n\n- Light theme\n- Comm 50 {Primary.800}"
+      },
+      "Brand Foreground on Light Selected": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand Foreground on Light Selected\n(BFG on Light Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      }
+    },
+    "Stroke": {
+      "Stroke 1": {
+        "value": "#d1d1d1",
+        "type": "color",
+        "description": "Stroke 1\n(SK 1)\n\n- Light theme\n- Grey 82 #D1D1D1"
+      },
+      "Stroke 1 Hover": {
+        "value": "#c7c7c7",
+        "type": "color",
+        "description": "Stroke 1 Hover\n(SK 1 Hover)\n\n- Light theme\n- Grey 78 #C7C7C7"
+      },
+      "Stroke 1 Pressed": {
+        "value": "#b3b3b3",
+        "type": "color",
+        "description": "Stroke 1 Pressed\n(SK 1 Pressed)\n\n- Light theme\n- Grey 70 #B3B3B3"
+      },
+      "Stroke 1 Selected": {
+        "value": "#bdbdbd",
+        "type": "color",
+        "description": "Stroke 1 Selected\n(SK 1 Selected)\n\n- Light theme\n- Grey 74 #BDBDBD"
+      },
+      "Stroke 2": {
+        "value": "#e0e0e0",
+        "type": "color",
+        "description": "Stroke 2\n(SK 2)\n\n- Light theme\n- Grey 88 #E0E0E0"
+      },
+      "Stroke 3": {
+        "value": "#f0f0f0",
+        "type": "color",
+        "description": "Stroke 3\n(SK 3)\n\n- Light theme\n- Grey 94 #F0F0F0"
+      },
+      "Stroke Alpha": {
+        "value": "#0000000d",
+        "type": "color",
+        "description": "Neutral Stroke Alpha\nBlack 5%"
+      },
+      "Stroke Subtle": {
+        "value": "#e0e0e0",
+        "type": "color",
+        "description": "Neutral Stroke Subtle\nLight theme\nGrey 88 #E0E0E0"
+      },
+      "Stroke on Brand": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Stroke on Brand\n(SK on Brand)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Stroke on Brand 2": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Stroke on Brand 2\n(SK on Brand 2)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Stroke on Brand 2 Hover": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Stroke on Brand 2 Hover\n(SK on Brand 2 Hover)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Stroke on Brand 2 Pressed": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Stroke on Brand 2 Pressed\n(SK on Brand 2 Pressed)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Stroke on Brand 2 Selected": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Stroke on Brand 2 Selected\n(SK on Brand 2 Selected)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Stroke Accessible": {
+        "value": "#616161",
+        "type": "color",
+        "description": "Stroke Accessible\n(SK Accessible)\n\n- Light theme\n- Grey 38 #616161"
+      },
+      "Stroke Accessible Hover": {
+        "value": "#575757",
+        "type": "color",
+        "description": "Stroke Accessible Hover\n(SK Accessible Hover)\n\n- Light theme\n- Grey 34 #575757"
+      },
+      "Stroke Accessible Pressed": {
+        "value": "#4d4d4d",
+        "type": "color",
+        "description": "Stroke Accessible Pressed\n(SK Accessible Pressed)\n\n- Light theme\n- Grey 30 #4D4D4D"
+      },
+      "Stroke Accessible Selected": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Stroke Accessible Selected\n(SK Accessible Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Stroke Disabled": {
+        "value": "#e0e0e0",
+        "type": "color",
+        "description": "Stroke Disabled\n(SK Disabled)\n\n- Light theme\n- Grey 88 #E0E0E0"
+      },
+      "Stroke Inverted Disabled": {
+        "value": "#ffffff66",
+        "type": "color",
+        "description": "Stroke Inverted Disabled\n(SK Inverted Disabled)\n\n- Light theme\n- White #FFFFFF 40%"
+      },
+      "Transparent Stroke": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent Stroke\n(Transparent SK)\n\n- Light theme\n- Alpha 0%"
+      },
+      "Transparent Stroke Interactive": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent Stroke Interactive\n(Transparent SK Interactive)\n\n\n- Light theme\n- Alpha 0%"
+      },
+      "Transparent Stroke Disabled": {
+        "value": "#ffffff00",
+        "type": "color",
+        "description": "Transparent Stroke Disabled\n(Transparent SK Disabled)\n\n- Light theme\n- Alpha 0%"
+      },
+      "Stroke Focus 1": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Stroke Focus 1\n(SK Focus 1)\n\n- Light theme\n- Inner focus stroke\n- White #FFFFFF"
+      },
+      "Stroke Focus 2": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Stroke Focus 2\n(SK Focus 2)\n\n- Light theme\n- Outer focus stroke\n- Black #000000"
+      },
+      "Brand Stroke 1": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Stroke 1\n(BSK 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Stroke 2": {
+        "value": "#b4d6fa",
+        "type": "color",
+        "description": "Brand Stroke 2\n(BSK 2)\n\n- Light theme\n- Comm 140 #B4D6FA"
+      },
+      "Brand Stroke 2 Hover": {
+        "value": "#77b7f7",
+        "type": "color",
+        "description": "Brand Stroke 2 Hover\n\nLight theme\nBrand tint stroke hover\nComm 120 #77B7F7"
+      },
+      "Brand Stroke 2 Pressed": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Stroke 2 Pressed\n\nLight theme\nBrand tint stroke pressed\nComm 80 {Primary.600}"
+      },
+      "Compound Brand Stroke 1": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Compound Brand Stroke 1\n(Compound BSK 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Compound Brand Stroke 1 Hover": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Compound Brand Stroke 1 Hover\n(Compound BSK 1 Hover) \n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Compound Brand Stroke 1 Pressed": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Compound Brand Stroke 1 Pressed\n(Compound BSK 1 Pressed)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      }
+    },
+    "Shared": {
+      "Red BG 1": {
+        "value": "{Error.50}",
+        "type": "color",
+        "description": "Red Background 1\n(Red BG 1)\n\n- Light theme\n- Danger tint badge background\n- Red Tint 60 #FDF6F6"
+      },
+      "Red BG 3": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Red Background 3\n(Red BG 3)\n\n- Light theme\n- Danger filled badge background\n- Red Primary #D13438"
+      },
+      "Red FG 1": {
+        "value": "{Error.50}",
+        "type": "color",
+        "description": "Red Foreground 1\n(Red FG 1)\n\n- Light theme\n- Danger tint badge foreground\n- Red Shade 10 #BC2F32"
+      },
+      "Red FG 3": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Red Foreground 3\n(Red FG 3)\n\n- Light theme\n- Danger outline badge foreground\n- Red Primary #D13438"
+      },
+      "Red Border 1": {
+        "value": "{Error.200}",
+        "type": "color",
+        "description": "Red Border 1\n(Red SK 1)\n\n- Light theme\n- Danger tint badge border\n- Red Tint 40 #F1BBBC"
+      },
+      "Red Border 2": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Red Border 2\n(Red SK 2)\n\n- Light theme\n- Danger border on neutral background\n- Red (primary) #D13438"
+      },
+      "Green BG 1": {
+        "value": "{Success.50}",
+        "type": "color",
+        "description": "Green Background 1\n(Green BG 1)\n\n- Light theme\n- Success tint badge background\n- Green Tint 60 #F1FAF1"
+      },
+      "Green BG 3": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Green Background 3\n(Green BG 3)\n\n- Light theme\n- Success filled badge background\n- Green Primary {Success.600}"
+      },
+      "Green FG 1": {
+        "value": "{Success.50}",
+        "type": "color",
+        "description": "Green Foreground 1\n(Green FG 1)\n\n- Light theme\n- Success tint badge foreground\n- Green Shade 10 #0E700E"
+      },
+      "Green FG 3": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Green Foreground 3\n(Green FG 3)\n\n- Light theme\n- Success subtle badge foreground\n- Green Primary {Success.600}"
+      },
+      "Green Border 1": {
+        "value": "{Success.200}",
+        "type": "color",
+        "description": "Green Border 1\n(Green Border 1)\n\n- Light theme\n- Success tint badge border\n- Green Tint 40 #9FD89F"
+      },
+      "Green Border 2": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Green Border 2\n(Green Border 2)\n\n- Light theme\n- Success border on neutral background\n- Green Primary {Success.600}"
+      },
+      "DarkOrange BG 1": {
+        "value": "{Warning.50}",
+        "type": "color",
+        "description": "DarkOrange Background 1\n(DarkOrange BG 1)\n\n- Light theme\n- Severe tint badge background\n- Dark Orange Tint 60 #FDF6F3"
+      },
+      "DarkOrange BG 3": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "DarkOrange Background 3\n(DarkOrange BG 3)\n\n- Light theme\n- Severe filled badge background\n- Dark Orange Primary {Warning.600}"
+      },
+      "DarkOrange FG 1": {
+        "value": "{Warning.50}",
+        "type": "color",
+        "description": "DarkOrange Foreground 1\n(DarkOrange FG 1)\n\n- Light theme\n- Severe tint badge foreground\n- Dark Orange Shade 10 #C43501"
+      },
+      "DarkOrange FG 3": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "DarkOrange Foreground 3\n(DarkOrange FG 3)\n\n- Light theme\n- Severe outline and subtle badge foreground\n- Dark Orange Primary {Warning.600}"
+      },
+      "DarkOrange Border 1": {
+        "value": "{Warning.200}",
+        "type": "color",
+        "description": "DarkOrange Border 1\n(DarkOrange SK 1)\n\n- Light theme\n- Severe tint badge border\n- Dark Orange Tint 40 #F4BFAB"
+      },
+      "DarkOrange Border 2": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "DarkOrange Border 1\n(DarkOrange SK 1)\n\n- Light theme\n- Severe tint badge border\n- Dark Orange Tint 40 #F4BFAB"
+      }
+    }
+  },
+  "Border Radius/Base": {
+    "BorderRadius": {
+      "Base": {
+        "value": "{BorderRadius.sm}",
+        "type": "borderRadius"
+      },
+      "Card": {
+        "value": "{BorderRadius.Base} * 2",
+        "type": "borderRadius"
+      },
+      "Small": {
+        "value": "{BorderRadius.Base} / 2",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "Language/English": {
+    "Breadcrumbs": {
+      "Documentation": {
+        "Title": {
+          "value": "Breadcrumbs",
+          "type": "text"
+        },
+        "Description": {
+          "value": "\"Breadcrumbs\" in the context of web development and navigation refers to a navigational element that consists of a list of links representing the path from the homepage to the current page of a website. This list can be organized hierarchically or chronologically, and its purpose is to help users track their location on the site and easily navigate back to previous levels or pages.\n\nThe representation of breadcrumbs might look like this:\n\nHome > Category 1 > Subcategory 1 > Current Page\n\nThe \"Home\" page (the starting point) is usually indicated by the word \"Home\" or a home icon. Then follows the list of links, each representing a section or category of the website. The last item in the list points to the current page where the user is located.\n\nBreadcrumbs are a useful user interface element that enhances user experience while navigating a website, especially when the site has a complex structure or deep page hierarchy.",
+          "type": "text"
+        }
+      },
+      "Items": {
+        "Home": {
+          "value": "Home",
+          "type": "text"
+        },
+        "Category": {
+          "value": "Category",
+          "type": "text"
+        },
+        "Subcategory": {
+          "value": "Subcategory",
+          "type": "text"
+        },
+        "Page": {
+          "value": "Page",
+          "type": "text"
+        }
+      }
+    },
+    "Product": {
+      "Option": {
+        "OutOfStock": {
+          "value": "Out of stock",
+          "type": "text"
+        }
+      },
+      "Stocks": {
+        "value": "Stocks",
+        "type": "text"
+      },
+      "AdditionalInformation": {
+        "value": "Additional information",
+        "type": "text"
+      }
+    },
+    "Navbar": {
+      "Nav Links": {
+        "Profile": {
+          "value": "Profile",
+          "type": "text"
+        }
+      },
+      "Settings": {
+        "Language": {
+          "value": "EN",
+          "type": "text"
+        },
+        "Currency": {
+          "value": "$ USD",
+          "type": "text"
+        }
+      },
+      "Cart": {
+        "Button": {
+          "Title": {
+            "value": "Cart",
+            "type": "text"
+          },
+          "Total": {
+            "value": "$ 20",
+            "type": "text"
+          }
+        }
+      }
+    }
+  },
+  "Language/Russian": {
+    "Breadcrumbs": {
+      "Documentation": {
+        "Title": {
+          "value": "Хлебные крошки",
+          "type": "text"
+        },
+        "Description": {
+          "value": "Термин \"Breadcrumbs\" (хлебные крошки) в контексте веб-разработки и навигации обозначает навигационный элемент, который представляет собой список ссылок, обозначающих путь от начальной страницы до текущей страницы веб-сайта. Этот список может быть организован иерархически или хронологически, и его цель состоит в помощи пользователям определить своё местоположение на сайте и легко вернуться на предыдущие уровни или страницы.\n\nПредставление хлебных крошек может выглядеть, например, так:\n\nГлавная > Категория 1 > Подкатегория 1 > Текущая страница\n\nГлавная страница (начало пути) обычно обозначается словом \"Главная\" или иконкой домика. Затем идет список ссылок, каждая из которых представляет собой название раздела или категории сайта. Последний элемент списка указывает на текущую страницу, на которой находится пользователь.\n\nХлебные крошки являются полезным элементом пользовательского интерфейса, который помогает улучшить опыт пользователей при навигации по веб-сайту, особенно если сайт имеет сложную структуру или глубокую иерархию страниц.",
+          "type": "text"
+        }
+      },
+      "Items": {
+        "Home": {
+          "value": "Главная",
+          "type": "text"
+        },
+        "Category": {
+          "value": "Категория",
+          "type": "text"
+        },
+        "Subcategory": {
+          "value": "Подкатегория",
+          "type": "text"
+        },
+        "Page": {
+          "value": "Страница",
+          "type": "text"
+        }
+      }
+    },
+    "Product": {
+      "Option": {
+        "OutOfStock": {
+          "value": "Нет в наличии",
+          "type": "text"
+        }
+      },
+      "Stocks": {
+        "value": "В наличии",
+        "type": "text"
+      },
+      "AdditionalInformation": {
+        "value": "Дополнительная информация",
+        "type": "text"
+      }
+    },
+    "Navbar": {
+      "Nav Links": {
+        "Profile": {
+          "value": "Профиль",
+          "type": "text"
+        }
+      },
+      "Settings": {
+        "Language": {
+          "value": "RU",
+          "type": "text"
+        },
+        "Currency": {
+          "value": "₽ Рубль",
+          "type": "text"
+        }
+      },
+      "Cart": {
+        "Button": {
+          "Title": {
+            "value": "Корзина",
+            "type": "text"
+          },
+          "Total": {
+            "value": "1649 ₽",
+            "type": "text"
+          }
+        }
+      }
+    }
+  },
+  "$themes": [
+    {
+      "id": "bc50401e9908fd635142b705aadbf9471bb600af",
+      "name": "Light",
+      "group": "Theme",
+      "selectedTokenSets": {
+        "Theme/Light": "enabled",
+        "Core": "source"
+      },
+      "$figmaStyleReferences": {
+        "colors.Pallete.Neutral.50": "S:b7784f0bc489d512f99d49b2c5b96c1cfb861e9c,",
+        "colors.Pallete.Neutral.100": "S:ff49e7d8cdfc6758382d1b3ad078ee75428db2b8,",
+        "colors.Pallete.Neutral.200": "S:521f864ac319732163ab1c4f636b5245f1e584f4,",
+        "colors.Pallete.Neutral.300": "S:f2006930213c9588d2233a19faf07ed3969c106e,",
+        "colors.Pallete.Neutral.400": "S:b9043d51c0868061a3f306e632d238db4f233296,",
+        "colors.Pallete.Neutral.500": "S:9dcb6f86b313eda689a99500af6e365646b33c30,",
+        "colors.Pallete.Neutral.600": "S:9938f7bb7a9c6c079e002b7761b3acd74cba17b2,",
+        "colors.Pallete.Neutral.700": "S:b38e3f42a13bbf3aa56191c61d62f2db3ff9da7a,",
+        "colors.Pallete.Neutral.800": "S:4c79aaf65552e861d3cc3283dc20dd7681b0ff77,",
+        "colors.Pallete.Neutral.900": "S:146614823bc18ef0d1769b2f2fa05a3df3d071a2,",
+        "colors.Pallete.Neutral.950": "S:e41ba15106b221d7225dd12d98f041046210d05e,",
+        "colors.Pallete.Primary.50": "S:df6ce7c868da5cabe2d75dcbbea3f14d25dc6188,",
+        "colors.Pallete.Primary.100": "S:98edd4ec21121c288530fca4bdc204fddee43192,",
+        "colors.Pallete.Primary.200": "S:aa81bc66c3185d616d5c4123059788fa2e72fea0,",
+        "colors.Pallete.Primary.300": "S:23699e58fbfc9fb5e35ede0b260a68cb71bf4ae3,",
+        "colors.Pallete.Primary.400": "S:132d5ad24ec7e6ef92a13dde547a525e7074f4ec,",
+        "colors.Pallete.Primary.500": "S:1e3b748493113c61b3a144006b1e903d7f5da5a6,",
+        "colors.Pallete.Primary.600": "S:93c423c6c31cf1956374cbf7d7ba8fc5882f2251,",
+        "colors.Pallete.Primary.700": "S:a75161c4ad9768c4809385e7ed0e16060d72d8a4,",
+        "colors.Pallete.Primary.800": "S:f7903170a9d2e794d75e3e05371da9c01439ff9e,",
+        "colors.Pallete.Primary.900": "S:165339c9aa0f0efe8ee27e9c5f90f5854e5feae7,",
+        "colors.Pallete.Primary.950": "S:3e560922bcb0171471617c850a4f65fa77a92984,",
+        "colors.Base.White": "S:2437246f66816420173fcda4abc9561a04df466a,",
+        "colors.Base.Black": "S:ad737faf0916b2de0bfedb07475582a13ad61978,",
+        "colors.Theme.button.primary.hover.bg": "S:f227befb6d4eb676a84cb4ab544b8989289cf1b8,",
+        "colors.Theme.button.primary.hover.fg-text": "S:699b28e30ff2160dbae76a0d8ce428185a9b8f24,",
+        "colors.Theme.button.primary.hover.fg-icon": "S:60eb07dbdf07c898d6211f479944dbe56c42b53a,",
+        "colors.Theme.button.primary.hover.border": "S:9f1c4c5127d3bec88af83fafda9406e0b783f801,",
+        "colors.Theme.button.primary.default.bg": "S:8393d03242c4101bacca8437411888c733bd88fb,",
+        "colors.Theme.button.primary.default.fg-text": "S:3b0b6c8cc7f3d4ac4969076ce24b45b36cb8490f,",
+        "colors.Theme.button.primary.default.fg-icon": "S:b953f3786d98754bfd6fb93ae624a84fa193aadc,",
+        "colors.Theme.button.primary.default.border": "S:2ecaa1887e373eb9533a026d9887f063075fa77d,",
+        "colors.Theme.button.primary.pressed.bg": "S:d00b21acf61231da13400af3655b8caf10a4b546,",
+        "colors.Theme.button.primary.pressed.fg-text": "S:cfe124f8422cba409659bc23f5ecbb7b2be659e7,",
+        "colors.Theme.button.primary.pressed.fg-icon": "S:b8c70deaf3e5d24f81128fc7cc54ba53183bb7f6,",
+        "colors.Theme.button.primary.pressed.border": "S:49840c643cec1b2d4a6bfe901ea08fa5c42af309,",
+        "colors.Theme.button.primary.disabled.bg": "S:eb31935f7961b19379cf1f3f1f5a89f0ff79792f,",
+        "colors.Theme.button.primary.disabled.fg-text": "S:c4500ed50cfda746e564b3aab1bed08f8a0a86be,",
+        "colors.Theme.button.primary.disabled.fg-icon": "S:e5fc8d27c8f1345f24f41c9531ccb9fed4c5cbfd,",
+        "colors.Theme.button.primary.disabled.border": "S:52d0c67c7871fc73ee07c02798832fd75856ff4d,",
+        "colors.Theme.button.ghost.hover.bg": "S:8cc5715af56bf7f3d9d3ac02254a8cac536fb953,",
+        "colors.Theme.button.ghost.hover.fg-text": "S:5cad36a3552ccc35f6fdbbb3cda5847074d67694,",
+        "colors.Theme.button.ghost.hover.fg-icon": "S:13518880c923076573c0ee4d93e86a21aeba5cdd,",
+        "colors.Theme.button.ghost.hover.border": "S:0ab7b26e3fd0eb66bbd8c1ad7a89a396243514cc,",
+        "colors.Theme.button.ghost.default.bg": "S:dcc0ca14e11049a2baeed1e504ae1b01cd2eb48b,",
+        "colors.Theme.button.ghost.default.fg-text": "S:597c4408375eac45ac0bbfde38d001e421f2b676,",
+        "colors.Theme.button.ghost.default.fg-icon": "S:d5c0954d3b7fd707213d823f919e96b1fc96b465,",
+        "colors.Theme.button.ghost.default.border": "S:ec1bc2fb73ac3095a029c6af7e9426e83199aab9,",
+        "colors.Theme.button.ghost.pressed.bg": "S:db8a3020b87c85a88dabb4b73609b94730a7e7b9,",
+        "colors.Theme.button.ghost.pressed.fg-text": "S:1d9c10badef2924a5fb6bf6ed2c32c3b8666a93e,",
+        "colors.Theme.button.ghost.pressed.fg-icon": "S:723252c314ead70970fdd2d31ad70c51f662be09,",
+        "colors.Theme.button.ghost.pressed.border": "S:276adc1c7bb4b114917aa2882ed83e6435bc0067,",
+        "colors.Theme.button.ghost.disabled.bg": "S:7ea6563a1eedc2c54268750de05080bea66f3ce4,",
+        "colors.Theme.button.ghost.disabled.fg-text": "S:d2c4705f09120359ab66832e69e96e38a74d7ae4,",
+        "colors.Theme.button.ghost.disabled.fg-icon": "S:381aeb59c305d910ed8988b0887123c4aad94536,",
+        "colors.Theme.button.ghost.disabled.border": "S:6887b1592eec508c16c1f36e8307314ee5f9c0f2,",
+        "colors.Theme.button.secondary.hover.bg": "S:a8814fc163c52cdc404d783f3a8a5c42df681f03,",
+        "colors.Theme.button.secondary.hover.fg-text": "S:1e91768ce317f0c00dbc00c346afa4a40a6585ca,",
+        "colors.Theme.button.secondary.hover.fg-icon": "S:4dd1de3aa6a2654e0ae4418d7b4368de249930ae,",
+        "colors.Theme.button.secondary.hover.border": "S:19e7d43d4dcb092bec1ece57350548c5592e637e,",
+        "colors.Theme.button.secondary.default.bg": "S:47d235a85e96b91e40b3b6c8be9f56374585fc3b,",
+        "colors.Theme.button.secondary.default.fg-text": "S:55d2dc33ed088c992242eae264874e6be27ec326,",
+        "colors.Theme.button.secondary.default.fg-icon": "S:ddb2e331c837538c8d1f9f1eebdee686a537c596,",
+        "colors.Theme.button.secondary.default.border": "S:5336c19f19b251a1d36ec12676438f12ec27bc78,",
+        "colors.Theme.button.secondary.pressed.bg": "S:26ee10f8a335755f437ebe7afba952bb20e2a853,",
+        "colors.Theme.button.secondary.pressed.fg-text": "S:f0bd3b4c26bfb9f10876b82f6debeb787bacb9d4,",
+        "colors.Theme.button.secondary.pressed.fg-icon": "S:1c7b707f6da5c2827fd3a7434c74215386200897,",
+        "colors.Theme.button.secondary.pressed.border": "S:4d232ff0b4da006ea453cd489676e8491d4086df,",
+        "colors.Theme.button.secondary.disabled.bg": "S:fd794c93348346e91439de72161cf141e010d723,",
+        "colors.Theme.button.secondary.disabled.fg-text": "S:de7f34f997371e58dd98b85da1f465caac0bc472,",
+        "colors.Theme.button.secondary.disabled.fg-icon": "S:f0063cdc2a7fd70ad7ef02a36dc1eb840f588d65,",
+        "colors.Theme.button.secondary.disabled.border": "S:e6b609d9fd48070ad6699229784a2763ca2fdca5,",
+        "colors.Theme.card.bg": "S:bc9ae3fdd20c03b00189ec48c5a77205381a5707,",
+        "colors.Theme.card.border": "S:03cd741bf45164d4248474e33714458b37b603bf,",
+        "colors.Theme.card.fg": "S:39ae75e5570067460fa8e6475e34336c668760af,",
+        "colors.Theme.bg": "S:922613147e7001aae7e15dd68fb916118d0bf73b,",
+        "colors.Theme.fg": "S:f0fa7f79616a6ea52814927b02e92fa86148496e,",
+        "colors.Theme.input.defualt.bg": "S:10dc4188ff3ed7f9e63ffc69a1c826de9298792a,",
+        "colors.Theme.input.defualt.fg-text": "S:2a07468aad67e731d40aee59fd0e880b435a62f4,",
+        "colors.Theme.input.defualt.fg-icon": "S:2ce1619dff2cd60a2f79e45d60739e498679e369,",
+        "colors.Theme.input.defualt.border": "S:504f2102c8fc94fd1b60334014bf86ed3d6353c8,",
+        "colors.Theme.input.defualt.hint": "S:31c021c0510577ef940b5551bcbfd33db88cd825,",
+        "colors.Theme.input.hover.bg": "S:bf9694162a0dfe9964bcc8920a8a2501091abb01,",
+        "colors.Theme.input.hover.fg-text": "S:b1ae674c4cfbfd0098ecbf1ddaec3b86a9fa98d9,",
+        "colors.Theme.input.hover.fg-icon": "S:81fde3c82a750bcd31a7b9a1b8e5cd79646027a6,",
+        "colors.Theme.input.hover.border": "S:3a49f8589e4dc8244ab934ecf59bf792dd9443b0,",
+        "colors.Theme.input.pressed.bg": "S:10d4ad399a3398c79e413ae981fd7dc88a92b3ce,",
+        "colors.Theme.input.pressed.fg-text": "S:dcb98fdc281a094e40aed69fb3bcea6ab4a0173a,",
+        "colors.Theme.input.pressed.fg-icon": "S:14e7b71c3948e031d3ab3a00fc652b9c4203b74d,",
+        "colors.Theme.input.pressed.border": "S:43eb5b903fd3b61b863bbeb81d2bc5b08e2fd1bf,",
+        "colors.Theme.input.active.bg": "S:7eb816e37da8912348ac9f5f4aeb51491c16d591,",
+        "colors.Theme.input.disabled.bg": "S:c0370b9389bc013a1676449f9a8f432eefb46886,",
+        "colors.Theme.input.disabled.fg-text": "S:bf1c520ab28c10f7500ad5e98abc922eef9173e7,",
+        "colors.Theme.input.disabled.fg-icon": "S:b75c40672f3cda4184de2e203fa891a91caffc03,",
+        "colors.Theme.input.disabled.border": "S:bae6354ded2f180e293355896aef6c204669061e,",
+        "colors.Theme.input.error.border": "S:ee8278f9e3b2b4497cd29e04e7674dc9cc4b2f02,",
+        "colors.Theme.input.warning.bg": "S:953823d31a447496e661ca58c180ff0b3fecd1b9,",
+        "colors.Theme.input.warning.fg-text": "S:70adfdd6bf847b6f15905738c26755400092efec,",
+        "colors.Theme.input.warning.fg-icon": "S:8d22a102aaa1f039b979a97b706c847af9587f21,",
+        "colors.Theme.input.warning.border": "S:ff0b706fee1862a410418020bce582cba02e6f4f,",
+        "colors.Theme.input.defualt.line": "S:d7a09329895bd3ab12d5a8728893912b5d3ca660,",
+        "Text.xl.Regular": "S:8b927c0abf1d74c0194a0f59a26a5fce0280b321,",
+        "Text.xl.Medium": "S:8e7a7de280e2fc801690ecd8f95b9553eb8d8adc,",
+        "Text.xl.SemiBold": "S:252f5829a475686f748e64d58389802ef1157847,",
+        "Text.xl.Bold": "S:4659db3b6624443a421c73d2d0eacf7f519680f8,",
+        "Text.lg.Regular": "S:fc2211e6cb59ec24a5d936021e1f32a2af72109d,",
+        "Text.lg.Medium": "S:7ff2085443352d2aa4e02e1bcb85b2cea17e6af9,",
+        "Text.lg.SemiBold": "S:3eb2d2883a279c00b62ddfd9302f969651506a6f,",
+        "Text.lg.Bold": "S:f06cbb11fe2b1ef87082d731972779f692bb3aeb,",
+        "Text.md.Regular": "S:daf10334529786f65812d4bafeaf48e53f822c18,",
+        "Text.md.Medium": "S:598f0a57d57d390fff8e60778ce14b09edd94796,",
+        "Text.md.SemiBold": "S:e18b1e60c67fc0654caf58de39602fd9ff7d1f2b,",
+        "Text.md.Bold": "S:e7006d3e76c91f999d0db9fe9e023574f2613dbe,",
+        "Text.sm.Regular": "S:b085c0334d46efa6be174fd35598c6c36d21f240,",
+        "Text.sm.Medium": "S:5791690861bb69cb9dcd692d38c2215e35675661,",
+        "Text.sm.SemiBold": "S:ca5c9b2d07cf227b4d5c16def0081f28e365ab10,",
+        "Text.sm.Bold": "S:3543c8a427607a0fd7a3e1000705cbf34724727b,",
+        "Text.xs.Regular": "S:18184880ac6a888f4630c5ed6f641a389c56407e,",
+        "Text.xs.Medium": "S:17436b80a537908593187238fa5536952bf131a1,",
+        "Text.xs.SemiBold": "S:e9d1cba3a3ca4476f17ca95b9e50656266dd5e77,",
+        "Text.xs.Bold": "S:c29ea03ec26a129cfc5a818bf1014215ea657020,",
+        "Display.2xl.Regular": "S:92f894cc8bbb881cc3c874cf653da58b4335e6e4,",
+        "Display.2xl.Medium": "S:dcdc78debb54c891755a6db3bf740f76f420cfcc,",
+        "Display.2xl.SemiBold": "S:cedc8bc87ad87cb31b21e9c799d2f641ae40c415,",
+        "Display.2xl.Bold": "S:1c16cad9dc3496491d3790e202e63204ad29c97e,",
+        "Display.xl.Regular": "S:1c918db5ca3d089898091b6811632cfb4fa34453,",
+        "Display.xl.Medium": "S:42ee75786155bbf1ea6a8477c584ea7fcd1ca1b6,",
+        "Display.xl.SemiBold": "S:66cb18099008c304b215fc223582f1eebcbe0128,",
+        "Display.xl.Bold": "S:1693d6c1489a59e2bb87660f0d1f02867ce0de81,",
+        "Display.lg.Regular": "S:eb05fc31583c03fafeea3a5fadd985fd70edf9c7,",
+        "Display.lg.Medium": "S:338e555af84aecb85a737a84dc73e22b3b2251a2,",
+        "Display.lg.SemiBold": "S:3ce3f58fe6de6b24130cbd139f0cdfd754b2ea2b,",
+        "Display.lg.Bold": "S:7c3bec7e391818d1f0ab5089882ad48d0a1909b0,",
+        "Display.md.Regular": "S:2d606e750b9447bfda564b2fb745a012f8e485fa,",
+        "Display.md.Medium": "S:009a5b8ec24776c430835fa37f75ad6e8709f1f2,",
+        "Display.md.SemiBold": "S:bad691d5f032b94411ee85d01ef89794e8808419,",
+        "Display.md.Bold": "S:e14e0bdba853ff3181cb5f7979b44a22eee8ed6a,",
+        "Display.sm.Regular": "S:7ff7ce92c8cbdc20cfe273323da98cdbbca2b6ef,",
+        "Display.sm.Medium": "S:a35999f1babba52a8bf11a6df7b73686c18de0d3,",
+        "Display.sm.SemiBold": "S:f15f9f77043c27182a2969eb158cc9642c53ce21,",
+        "Display.sm.Bold": "S:45f6fde53663a448d8091a7f4f0c03f7a2cd63e1,",
+        "Display.xs.Regular": "S:fe004a8a29d9d56f621e43d1477134f1abe9b64e,",
+        "Display.xs.Medium": "S:539eff97ef41a4e1ae97364ec84ff2ea8eb3519c,",
+        "Display.xs.SemiBold": "S:5d696ebd14227cbd774cf301388ea2e69613baef,",
+        "Display.xs.Bold": "S:5ee70c7ed73cd3fb1bc5ed7ae28d114dded8c8cc,",
+        "colors.Theme.input.defualt.placeholder": "S:c07eebbab7f38bb10986d99da64daa44dc6c96dd,",
+        "colors.Theme.input.active.line": "S:e5fcd54f8e8d36dccbe5ad628e09add34f051e0a,",
+        "colors.Pallete.Error.50": "S:7de8da39d9e8fce62613ae45c0112690d1c8d2e4,",
+        "colors.Pallete.Error.100": "S:4f1d3d5f6de773e45f970895f2385ad77a9dae88,",
+        "colors.Pallete.Error.200": "S:8b6edf5c7ea8a651d869c6bafcb221653cc5af6b,",
+        "colors.Pallete.Error.300": "S:513af0a18ec2a074183db7f4909b31537cf3c66f,",
+        "colors.Pallete.Error.400": "S:0617977d83a7961c8d7b646ba958346fa1088029,",
+        "colors.Pallete.Error.500": "S:45fc22dd58baecdcff9173cbcc1663ec157b1733,",
+        "colors.Pallete.Error.600": "S:bd056a4266e1d0feecd21c3f2a3f65f0b85ab672,",
+        "colors.Pallete.Error.700": "S:806ca46f4815cf805f0b1f41427caed3098fb907,",
+        "colors.Pallete.Error.800": "S:ec72195dcb76cff1b454bf0952b1723b032a1538,",
+        "colors.Pallete.Error.900": "S:708b0926cf0487a1c60966a767866728b942af18,",
+        "colors.Pallete.Error.950": "S:b278fff9837e1e0be8102b694a449d52ae180c05,",
+        "colors.Theme.input.error.hint": "S:4f2bb18ba6dc9d7770e469db6f6122b2c00da9ad,",
+        "colors.Theme.input.error.line": "S:f1c213115557d4c6074ab807fb08ab465209ced9,",
+        "colors.Components.button.primary.hover.bg": "S:f227befb6d4eb676a84cb4ab544b8989289cf1b8,",
+        "colors.Components.button.primary.hover.fg-text": "S:699b28e30ff2160dbae76a0d8ce428185a9b8f24,",
+        "colors.Components.button.primary.hover.fg-icon": "S:60eb07dbdf07c898d6211f479944dbe56c42b53a,",
+        "colors.Components.button.primary.hover.border": "S:9f1c4c5127d3bec88af83fafda9406e0b783f801,",
+        "colors.Components.button.primary.default.bg": "S:8393d03242c4101bacca8437411888c733bd88fb,",
+        "colors.Components.button.primary.default.fg-text": "S:3b0b6c8cc7f3d4ac4969076ce24b45b36cb8490f,",
+        "colors.Components.button.primary.default.fg-icon": "S:b953f3786d98754bfd6fb93ae624a84fa193aadc,",
+        "colors.Components.button.primary.default.border": "S:2ecaa1887e373eb9533a026d9887f063075fa77d,",
+        "colors.Components.button.primary.pressed.bg": "S:d00b21acf61231da13400af3655b8caf10a4b546,",
+        "colors.Components.button.primary.pressed.fg-text": "S:cfe124f8422cba409659bc23f5ecbb7b2be659e7,",
+        "colors.Components.button.primary.pressed.fg-icon": "S:b8c70deaf3e5d24f81128fc7cc54ba53183bb7f6,",
+        "colors.Components.button.primary.pressed.border": "S:49840c643cec1b2d4a6bfe901ea08fa5c42af309,",
+        "colors.Components.button.primary.disabled.bg": "S:eb31935f7961b19379cf1f3f1f5a89f0ff79792f,",
+        "colors.Components.button.primary.disabled.fg-text": "S:c4500ed50cfda746e564b3aab1bed08f8a0a86be,",
+        "colors.Components.button.primary.disabled.fg-icon": "S:e5fc8d27c8f1345f24f41c9531ccb9fed4c5cbfd,",
+        "colors.Components.button.primary.disabled.border": "S:52d0c67c7871fc73ee07c02798832fd75856ff4d,",
+        "colors.Components.button.ghost.hover.bg": "S:8cc5715af56bf7f3d9d3ac02254a8cac536fb953,",
+        "colors.Components.button.ghost.hover.fg-text": "S:5cad36a3552ccc35f6fdbbb3cda5847074d67694,",
+        "colors.Components.button.ghost.hover.fg-icon": "S:13518880c923076573c0ee4d93e86a21aeba5cdd,",
+        "colors.Components.button.ghost.hover.border": "S:0ab7b26e3fd0eb66bbd8c1ad7a89a396243514cc,",
+        "colors.Components.button.ghost.default.bg": "S:dcc0ca14e11049a2baeed1e504ae1b01cd2eb48b,",
+        "colors.Components.button.ghost.default.fg-text": "S:597c4408375eac45ac0bbfde38d001e421f2b676,",
+        "colors.Components.button.ghost.default.fg-icon": "S:d5c0954d3b7fd707213d823f919e96b1fc96b465,",
+        "colors.Components.button.ghost.default.border": "S:ec1bc2fb73ac3095a029c6af7e9426e83199aab9,",
+        "colors.Components.button.ghost.pressed.bg": "S:db8a3020b87c85a88dabb4b73609b94730a7e7b9,",
+        "colors.Components.button.ghost.pressed.fg-text": "S:1d9c10badef2924a5fb6bf6ed2c32c3b8666a93e,",
+        "colors.Components.button.ghost.pressed.fg-icon": "S:723252c314ead70970fdd2d31ad70c51f662be09,",
+        "colors.Components.button.ghost.pressed.border": "S:276adc1c7bb4b114917aa2882ed83e6435bc0067,",
+        "colors.Components.button.ghost.disabled.bg": "S:7ea6563a1eedc2c54268750de05080bea66f3ce4,",
+        "colors.Components.button.ghost.disabled.fg-text": "S:d2c4705f09120359ab66832e69e96e38a74d7ae4,",
+        "colors.Components.button.ghost.disabled.fg-icon": "S:381aeb59c305d910ed8988b0887123c4aad94536,",
+        "colors.Components.button.ghost.disabled.border": "S:6887b1592eec508c16c1f36e8307314ee5f9c0f2,",
+        "colors.Components.button.secondary.hover.bg": "S:a8814fc163c52cdc404d783f3a8a5c42df681f03,",
+        "colors.Components.button.secondary.hover.fg-text": "S:1e91768ce317f0c00dbc00c346afa4a40a6585ca,",
+        "colors.Components.button.secondary.hover.fg-icon": "S:4dd1de3aa6a2654e0ae4418d7b4368de249930ae,",
+        "colors.Components.button.secondary.hover.border": "S:19e7d43d4dcb092bec1ece57350548c5592e637e,",
+        "colors.Components.button.secondary.default.bg": "S:47d235a85e96b91e40b3b6c8be9f56374585fc3b,",
+        "colors.Components.button.secondary.default.fg-text": "S:55d2dc33ed088c992242eae264874e6be27ec326,",
+        "colors.Components.button.secondary.default.fg-icon": "S:ddb2e331c837538c8d1f9f1eebdee686a537c596,",
+        "colors.Components.button.secondary.default.border": "S:5336c19f19b251a1d36ec12676438f12ec27bc78,",
+        "colors.Components.button.secondary.pressed.bg": "S:26ee10f8a335755f437ebe7afba952bb20e2a853,",
+        "colors.Components.button.secondary.pressed.fg-text": "S:f0bd3b4c26bfb9f10876b82f6debeb787bacb9d4,",
+        "colors.Components.button.secondary.pressed.fg-icon": "S:1c7b707f6da5c2827fd3a7434c74215386200897,",
+        "colors.Components.button.secondary.pressed.border": "S:4d232ff0b4da006ea453cd489676e8491d4086df,",
+        "colors.Components.button.secondary.disabled.bg": "S:fd794c93348346e91439de72161cf141e010d723,",
+        "colors.Components.button.secondary.disabled.fg-text": "S:de7f34f997371e58dd98b85da1f465caac0bc472,",
+        "colors.Components.button.secondary.disabled.fg-icon": "S:f0063cdc2a7fd70ad7ef02a36dc1eb840f588d65,",
+        "colors.Components.button.secondary.disabled.border": "S:e6b609d9fd48070ad6699229784a2763ca2fdca5,",
+        "colors.Components.card.bg": "S:bc9ae3fdd20c03b00189ec48c5a77205381a5707,",
+        "colors.Components.card.border": "S:03cd741bf45164d4248474e33714458b37b603bf,",
+        "colors.Components.card.fg": "S:39ae75e5570067460fa8e6475e34336c668760af,",
+        "colors.Components.bg": "S:922613147e7001aae7e15dd68fb916118d0bf73b,",
+        "colors.Components.fg": "S:f0fa7f79616a6ea52814927b02e92fa86148496e,",
+        "colors.Components.input.defualt.bg": "S:10dc4188ff3ed7f9e63ffc69a1c826de9298792a,",
+        "colors.Components.input.defualt.fg-text": "S:2a07468aad67e731d40aee59fd0e880b435a62f4,",
+        "colors.Components.input.defualt.fg-icon": "S:2ce1619dff2cd60a2f79e45d60739e498679e369,",
+        "colors.Components.input.defualt.border": "S:504f2102c8fc94fd1b60334014bf86ed3d6353c8,",
+        "colors.Components.input.defualt.hint": "S:31c021c0510577ef940b5551bcbfd33db88cd825,",
+        "colors.Components.input.defualt.line": "S:d7a09329895bd3ab12d5a8728893912b5d3ca660,",
+        "colors.Components.input.defualt.placeholder": "S:c07eebbab7f38bb10986d99da64daa44dc6c96dd,",
+        "colors.Components.input.active.bg": "S:7eb816e37da8912348ac9f5f4aeb51491c16d591,",
+        "colors.Components.input.active.line": "S:c25c3e31ee3b4193124353944b6fe7b1cdb9308e,",
+        "colors.Components.input.disabled.bg": "S:c0370b9389bc013a1676449f9a8f432eefb46886,",
+        "colors.Components.input.disabled.fg-text": "S:bf1c520ab28c10f7500ad5e98abc922eef9173e7,",
+        "colors.Components.input.disabled.fg-icon": "S:b75c40672f3cda4184de2e203fa891a91caffc03,",
+        "colors.Components.input.disabled.border": "S:bae6354ded2f180e293355896aef6c204669061e,",
+        "colors.Components.input.error.border": "S:ee8278f9e3b2b4497cd29e04e7674dc9cc4b2f02,",
+        "colors.Components.input.error.hint": "S:4f2bb18ba6dc9d7770e469db6f6122b2c00da9ad,",
+        "colors.Components.input.error.line": "S:f1c213115557d4c6074ab807fb08ab465209ced9,",
+        "colors.Components.input.hover.bg": "S:bf9694162a0dfe9964bcc8920a8a2501091abb01,",
+        "colors.Components.navbar.nav.item.default.bg": "S:41cd3629273332339c1b4646d45eab27bb249181,",
+        "colors.Components.navbar.nav.item.default.fg-icon": "S:72844e01df562f695621f37fc13643f2b1fbaf21,",
+        "colors.Components.navbar.nav.item.default.fg-text": "S:3bdec5ac939d8f2fa70e605698d6a2508579d23d,",
+        "colors.Components.navbar.nav.item.hover.bg": "S:c259ede7096f33184398cf5b23582018656d5177,",
+        "colors.Components.navbar.nav.item.active.bg": "S:1f5909aec487cc7aea585ec8c1aa434a671bf52a,",
+        "colors.Components.navbar.nav.item.active.line": "S:c77a69565afdf101a5f203791cca7186f640962a,",
+        "colors.Components.navbar.nav.item.default.line": "S:bdd11b24775647eb4a986e16a0ee46cd2107e36e,",
+        "colors.Components.navbar.category.item.default.bg": "S:731b303b3dc446b0677d2c6ccd1f65e846b35fa3,",
+        "colors.Components.navbar.category.item.hover.bg": "S:974ab2ac5f62eb7cb0f47b865b90ccb6871f64e7,",
+        "colors.Components.navbar.category.bg": "S:4a42db6d70f83ef9fc53bab5b396d6fdfbe07ff3,",
+        "colors.Components.navbar.category.item.default.fg": "S:b7888e08a0172595ebec559566d1c3bbe88f16c5,",
+        "colors.Components.navbar.category.fg": "S:d37a1ed00fb7b1654eb73e9033142693c585ee50,",
+        "colors.Pallete.Success.50": "S:4f95c623ad54b3082e4c877b2f47fcffbb3479e7,",
+        "colors.Pallete.Success.100": "S:f63678063b227e9f55b876dfa11bb351291f950c,",
+        "colors.Pallete.Success.200": "S:d42dc96e0692a97ecfde728de4275a749db8d7e7,",
+        "colors.Pallete.Success.300": "S:c920d14becbabccace96d089d8bb9197a1b47478,",
+        "colors.Pallete.Success.400": "S:79635483c52db717c1a761404f445cacc135e2b9,",
+        "colors.Pallete.Success.500": "S:4ae83ec337e0c0995647470eb07294dfc648bb98,",
+        "colors.Pallete.Success.600": "S:bba1d8ec69641d7b3741ff172225ed0104e88ce3,",
+        "colors.Pallete.Success.700": "S:136c557cf62f8cc83df03632ec2f7066f0a33bfd,",
+        "colors.Pallete.Success.800": "S:6ee238638eea351b326765f0943631df2cc63af3,",
+        "colors.Pallete.Success.900": "S:7f3a62aaabdc20aeb967d984f6d374638f0fa1d0,",
+        "colors.Pallete.Success.950": "S:1da1b2ad8c025418465d708926b8a2e60ff86033,",
+        "colors.Components.button.success.hover.bg": "S:df526b7534ce549970c37a75a137cd23fc6e24b3,",
+        "colors.Components.button.success.hover.fg-text": "S:1bbd9ce6c1354fbbdce27e2939496751f3019f0c,",
+        "colors.Components.button.success.hover.fg-icon": "S:9a2114d9371762266d17da6efca10650f76634ea,",
+        "colors.Components.button.success.hover.border": "S:c5210db71622437a39dc121c787bf248f1fdb401,",
+        "colors.Components.button.success.default.bg": "S:635e91ac84c87ac5dd8f16cf2ec5b0f2bc7259c0,",
+        "colors.Components.button.success.default.fg-text": "S:43db83dd79a135458cd76c7840376a28df71755e,",
+        "colors.Components.button.success.default.fg-icon": "S:8925512a1332d5bc51604c459337ee73ef72625f,",
+        "colors.Components.button.success.default.border": "S:efce838dacefc99f4925ec6a6700d4f0b0ea4b9a,",
+        "colors.Components.button.success.pressed.bg": "S:d3bb527243553760a1c384a819598a4ed4e82e08,",
+        "colors.Components.button.success.pressed.fg-text": "S:9dc1c73f608e48277d2beb026437911642062a0a,",
+        "colors.Components.button.success.pressed.fg-icon": "S:6ee6402d695816feaebeabb78a2a5bfd21583905,",
+        "colors.Components.button.success.pressed.border": "S:950827d4be44cd26ab9e2ca29e8627ac475353b1,",
+        "colors.Components.button.success.disabled.bg": "S:6410ba9fa9aeb130e32ddd2775d60e96fd1cf69b,",
+        "colors.Components.button.success.disabled.fg-text": "S:5409a0c1deefb013b7479365d385d78d54bc08f4,",
+        "colors.Components.button.success.disabled.fg-icon": "S:e9ec5b595c7f29ca6e26e58a2b96e22b96cdab19,",
+        "colors.Components.button.success.disabled.border": "S:81608f162463be524601198b537b1488a35bb3af,",
+        "colors.Components.badge.neutral.type.bg": "S:996025c554a9e75f7f44ba359d5647d467279a63,",
+        "colors.Components.badge.neutral.type.fg": "S:a3b0b4481a2d5dd901faf1816c175182352a1460,",
+        "colors.Components.badge.neutral.variant.default.bg.bg": "S:5b76b5e003905134076e97138e7be1c037b219ec,",
+        "colors.Components.badge.neutral.variant.default.bg.fg": "S:8dd60c6159b5824acba5767eeef2f2c92ce4a9d9,",
+        "colors.Components.badge.closeButton.default.bg": "S:8173670ec9fac52352e9915b80d49c743685b89d,",
+        "colors.Components.badge.closeButton.hover.bg": "S:51004038f425db003b1726c8f8253028fd8e1f30,",
+        "colors.Components.badge.closeButton.default.fg-icon": "S:c748dfcd467668a03c7811cf8ed76a7aa79af46c,",
+        "colors.Components.badge.neutral.variant.default.fg": "S:2456394fbc99b39153520fd6c195bc4c87aefbc7,",
+        "colors.Components.badge.neutral.variant.default.bg": "S:ace8467c87cb026043a791ee1522604918c2f68d,",
+        "colors.Components.badge.primary.variant.default.fg": "S:1ecf7a6786813c8a40274d9a52f1e65ed25b0182,",
+        "colors.Components.badge.primary.variant.default.bg": "S:a43ebb3c0dc9d6db13a0de6beb24025bc3b24ad0,",
+        "colors.Components.navbar.search.item.default.bg": "S:cf12cda8fd5880b302b0ef2c5c975d7b976b19d0,",
+        "colors.Components.navbar.search.item.hover.bg": "S:c1f0fd21e5a45802fc37c4534964c6b1af2d38e9,",
+        "colors.Components.navbar.search.item.default.fg-title": "S:f1e50b78ddd3236ecee126d72acd8094057b7a9d,",
+        "colors.Components.navbar.search.item.default.fg-price": "S:2e01415aa1ffb2d6dc83a2354d4cf7c9edacad9a,",
+        "colors.Components.navbar.search.item.hover.border": "S:0458eb46684772802a612300c12b88f8b11334c5,",
+        "colors.Components.badge.primary.variant.bordered.fg": "S:8e89c3d0be44724f146f453562ce946d940ab84d,",
+        "colors.Components.badge.primary.variant.bordered.bg": "S:8ca90b423882d284bce4ddef260dbf524ad684ee,",
+        "colors.Components.badge.primary.variant.bordered.border": "S:cff815a979939bf52a14f0412e6adef7c9a475ce,",
+        "colors.Components.badge.primary.variant.filled.bg": "S:3ab683da7d8ac273471b0ff42bf0bab54c430ce1,",
+        "colors.Components.badge.primary.variant.filled.fg": "S:a1f18f4becd440ca02afc5e32043ceb426ec26e5,",
+        "colors.Components.badge.primary.variant.outline.border": "S:b93edf9348c7472baa666b89dd72b73d4b1d816e,",
+        "colors.Components.badge.primary.variant.outline.fg": "S:9cbf0f19738c683b344bb2b4745b1aa6dad340cd,",
+        "colors.Pallete.Warning.50": "S:870dfffe3a43577de934ab446f67b56c609231e8,",
+        "colors.Pallete.Warning.100": "S:71b8da77b2b4de8b0c92fc4053ff15a3a5e8659d,",
+        "colors.Pallete.Warning.200": "S:096e597ba8e9d36d9955afbc7ddaa89d744ab12f,",
+        "colors.Pallete.Warning.300": "S:8778b2dfacababbd7f1cc7497d4e324269eaa915,",
+        "colors.Pallete.Warning.400": "S:f6b6dd659c1713b6a9912f8166b26593d80a0878,",
+        "colors.Pallete.Warning.500": "S:a47fb0b1eb619ab9de28bc325602e001069c15ca,",
+        "colors.Pallete.Warning.600": "S:8432c74598cc021c8fc87119a09f092f6e0d9167,",
+        "colors.Pallete.Warning.700": "S:612eff8b33971c7a21007ccdb8e1f6da5fe51e12,",
+        "colors.Pallete.Warning.800": "S:aedbb95a22970e701207a0793fca7c471584d465,",
+        "colors.Pallete.Warning.900": "S:0ee49108c87f0b95e53617a98114edc2956f01ee,",
+        "colors.Pallete.Warning.950": "S:d2e5786f02cddc818f0a1332eb47b4a56af71c37,",
+        "colors.Components.button.error.hover.bg": "S:4f0de8da1fe0d394abd7d47197a31a666378cdfe,",
+        "colors.Components.button.error.hover.fg-text": "S:3da6d24e55b49ae86adb187a4ca647af286c8c50,",
+        "colors.Components.button.error.hover.fg-icon": "S:c0bb900d700411cc942307cfc32666c4b8447eac,",
+        "colors.Components.button.error.hover.border": "S:48a2af6184b6ba499b4d4cdc8b76b7ca79fdef2f,",
+        "colors.Components.button.error.default.bg": "S:af7ec18499df672cb3236b300e318adf3226889d,",
+        "colors.Components.button.error.default.fg-text": "S:e987117ae25cb12d9de867e88ae2ec1d00cb2c0c,",
+        "colors.Components.button.error.default.fg-icon": "S:baa0ded1c717bb8df328d7b55a8f5b3440539241,",
+        "colors.Components.button.error.default.border": "S:8ff965cedabc854441357841a22c6bec48060258,",
+        "colors.Components.button.error.pressed.bg": "S:079850d6e0abf53729ddcdf55791d94299dad9a1,",
+        "colors.Components.button.error.pressed.fg-text": "S:007d2b0d302b35d769b001d31088f5fc57dfcd44,",
+        "colors.Components.button.error.pressed.fg-icon": "S:53ea3ded3c8bde1748e9dcaa1c61f4f83ff952c0,",
+        "colors.Components.button.error.pressed.border": "S:bd0a4258ce3b3b65a5334872f5c567421f60be70,",
+        "colors.Components.button.error.disabled.bg": "S:177541c63fc6c008d853bb68cc8150d89457e892,",
+        "colors.Components.button.error.disabled.fg-text": "S:19e266b004cb21fd9602cfbc01cdf577216ade11,",
+        "colors.Components.button.error.disabled.fg-icon": "S:566ddeecd4e114cbb764b52243d400b5a7963b0c,",
+        "colors.Components.button.error.disabled.border": "S:a65463bfed7daaa97f8a0cd4701ebad129d962b1,",
+        "colors.Components.button.warning.hover.bg": "S:aeffa342f8ea859373bbc10af14cc974f920222e,",
+        "colors.Components.button.warning.hover.fg-text": "S:2b7f860f6240a9d11964c90fb3132ec7cd1ffab1,",
+        "colors.Components.button.warning.hover.fg-icon": "S:e7d4f229e15e65b4f83ae5973352b66fb3361d98,",
+        "colors.Components.button.warning.hover.border": "S:e86501c2b3d8ffbc4e75d7ff019970f96cd6f75e,",
+        "colors.Components.button.warning.default.bg": "S:fef5c52083006016ee70bf534a5085efce202f23,",
+        "colors.Components.button.warning.default.fg-text": "S:a890ccbf4a1ac568f2681bbc30d8c77537a1060e,",
+        "colors.Components.button.warning.default.fg-icon": "S:417f609da97a8b2a373c6c108fa4ed28cca4693e,",
+        "colors.Components.button.warning.default.border": "S:453eaee025cae78801d1fd04340f5129a61a6b6d,",
+        "colors.Components.button.warning.pressed.bg": "S:cc0fe0e8f1b49d900b0e3cb8790d7587c827b109,",
+        "colors.Components.button.warning.pressed.fg-text": "S:03ba1dc6b59dd30a8f9e303cd213d702471a5ee6,",
+        "colors.Components.button.warning.pressed.fg-icon": "S:3fc9fe067d8bdccba7876578f527b4cd1d5bc35b,",
+        "colors.Components.button.warning.pressed.border": "S:92956effcb15fe97046c7ddb1268a65d761ad0b1,",
+        "colors.Components.button.warning.disabled.bg": "S:f1656c2eda0168cd448de1ee0a23f69b6e4f0a59,",
+        "colors.Components.button.warning.disabled.fg-text": "S:8b6835c0b41bd1b614f9c27258a2df46612fbccf,",
+        "colors.Components.button.warning.disabled.fg-icon": "S:22228712831e511313cb7659359c9a6040d2a76f,",
+        "colors.Components.button.warning.disabled.border": "S:a7dd08342e952311e29e1d7e12a054167ad573fa,",
+        "colors.Components.badge.success.variant.default.fg": "S:30f8409230eba8d86db0332396185341dd0681ad,",
+        "colors.Components.badge.success.variant.default.bg": "S:1d863ff0e14b6b21ab43a4df8bd6f6f97be98408,",
+        "colors.Components.badge.success.variant.bordered.fg": "S:0bdc64bcfcd998961f66d70f7a6ee23ca413f874,",
+        "colors.Components.badge.success.variant.bordered.bg": "S:22b552e60b5255e3cd225cf7c6600fad18704433,",
+        "colors.Components.badge.success.variant.bordered.border": "S:3288e00cbc1746249714db4fd95d3dd487fcdaf8,",
+        "colors.Components.badge.success.variant.filled.bg": "S:9dbf784c02b97fcd65cd2ddc6825c590134e6ebd,",
+        "colors.Components.badge.success.variant.filled.fg": "S:6d9d4551986e5564faa8d1c7d34eb31f466b4214,",
+        "colors.Components.badge.success.variant.outline.border": "S:f660279bd85dba40869af713cbb5252261e621b3,",
+        "colors.Components.badge.success.variant.outline.fg": "S:575fdeedf783611daaa9defa193f40c9d232ac26,",
+        "colors.Components.badge.error.variant.default.fg": "S:e03b442f2a6f76554176a843db3291d78a272313,",
+        "colors.Components.badge.error.variant.default.bg": "S:f3b4135af310ff8e9af8eab5e2d7cd1aaa4887ac,",
+        "colors.Components.badge.error.variant.bordered.fg": "S:e62fbb3051b948bc81c39aeb596846a42c3081a0,",
+        "colors.Components.badge.error.variant.bordered.bg": "S:b86028fb4406f11e20ebfdb9bada712cb1dda64d,",
+        "colors.Components.badge.error.variant.bordered.border": "S:d891f0797b10214b3f65b402d095e3f62244e570,",
+        "colors.Components.badge.error.variant.filled.bg": "S:c0a51a6c4fa8a33d53ce8c33c9ae9529f036337a,",
+        "colors.Components.badge.error.variant.filled.fg": "S:8e8c5654cb4ef7cb87947d325fa47b694e5013e7,",
+        "colors.Components.badge.error.variant.outline.border": "S:6e2567eed4e76f39a1bd8026c4ecb086c1c97933,",
+        "colors.Components.badge.error.variant.outline.fg": "S:3a1808c951c0fa2fa76999277ef1f8cf6a4825a1,",
+        "colors.Components.badge.warning.variant.default.fg": "S:9f0b8f1f7eacc6e08ef598a5182e55b4ce87da66,",
+        "colors.Components.badge.warning.variant.default.bg": "S:50f2701122fdea2d7d0ea034b53bafe6821b3cf9,",
+        "colors.Components.badge.warning.variant.bordered.fg": "S:2c7301c0a5985af74fb64ab96220c7623880e8a5,",
+        "colors.Components.badge.warning.variant.bordered.bg": "S:6dca7cce1453d18ab4a25a393465dac5e7c5b9c7,",
+        "colors.Components.badge.warning.variant.bordered.border": "S:99e2a8a69d7bb651308c46ba84d514e1388a719d,",
+        "colors.Components.badge.warning.variant.filled.bg": "S:8627336cca94c817efa5261f72a9b859b5a6350e,",
+        "colors.Components.badge.warning.variant.filled.fg": "S:dfd8ce79c2c97a517beee6ddb292f7f197f91676,",
+        "colors.Components.badge.warning.variant.outline.border": "S:bd5dea651d12b5af701b99fd2df67530708d87e9,",
+        "colors.Components.badge.warning.variant.outline.fg": "S:cac3f0115690916de355099af92955de543ac44c,",
+        "colors.Components.badge.neutral.variant.bordered.fg": "S:c070c35e94aad10f90208074752e741b0aa1fee4,",
+        "colors.Components.badge.neutral.variant.bordered.bg": "S:e78365aaee6edacb3eb2e3ccb42cc19d01995506,",
+        "colors.Components.badge.neutral.variant.bordered.border": "S:4de3e6d5ffe4816cce4137f8cfc134f0987ff514,",
+        "colors.Components.badge.neutral.variant.filled.bg": "S:bd8fe4c02c2160bab6dee96c93b35dbdd3e3cbdd,",
+        "colors.Components.badge.neutral.variant.filled.fg": "S:beb7aafa4c29a9afcf9ec5aec66939e4bb9f06bd,",
+        "colors.Components.badge.neutral.variant.outline.border": "S:e3f1da33eb7dc894dada873fba4ec07b6313331b,",
+        "colors.Components.badge.neutral.variant.outline.fg": "S:bb948cc253e87fef62f5c3edf89f915fd6a8ad04,",
+        "colors.Components.card.devider": "S:7e5ba6e8d8584da8af79e81075603585d1426a0d,",
+        "colors.Components.card.warning.bg": "S:e198207a8ca4b0f2a7f2957560a7467246a334ba,",
+        "colors.Components.card.error.bg": "S:28e49d4082062661e3ea08195e20cfed29151404,",
+        "colors.Components.card.success.bg": "S:2b3e59028f191e759198f98951c0744b18694f94,",
+        "badge.closeButton.default.bg": "S:0aa8e3adf9efb3156343ae17622bcdf1145c90e9,",
+        "badge.closeButton.default.fg-icon": "S:22b865d8e659a70b1c76ff2ae6c8d7aeb2f87d88,",
+        "badge.closeButton.hover.bg": "S:5c4633fcc073e0f63dcebb51f7873f599ac12be1,",
+        "badge.neutral.variant.default.fg": "S:a673bdddc7fa5e45c2abf5783ba87b0caabd9e84,",
+        "badge.neutral.variant.default.bg": "S:e4718a60f4e965f6be840ddad651a875fde1422a,",
+        "badge.neutral.variant.bordered.fg": "S:3ddc88bf57764367ca88b94ad887e7ae75de868d,",
+        "badge.neutral.variant.bordered.bg": "S:bdbdb5f9e85a116cdf1325b199f9f331e29277bd,",
+        "badge.neutral.variant.bordered.border": "S:9a27ded3f2d2b6197b61e1f5cb51f02ed04db823,",
+        "badge.neutral.variant.filled.bg": "S:e17f59edb0e131bd0417f4c1a8e5ae285c8581f2,",
+        "badge.neutral.variant.filled.fg": "S:a299617e5ea4536afb2fff945fd9e1ba5f78a839,",
+        "badge.neutral.variant.outline.border": "S:9911ad3df55cfaf12871ae71cfa2b2fc503ac17e,",
+        "badge.neutral.variant.outline.fg": "S:34ab372000cde09023d4b22f2b63085afcc78a33,",
+        "badge.primary.variant.default.fg": "S:ab032e23770d37c20a218dbf46e883d43447deb9,",
+        "badge.primary.variant.default.bg": "S:8b142f2a8603377fdc815d5c5b652762348d674f,",
+        "badge.primary.variant.bordered.fg": "S:65dcf1d580d070db0b961cc8a8003b77d8a35f1e,",
+        "badge.primary.variant.bordered.bg": "S:6b594943af237d9c68548e6cfc89310b840b6732,",
+        "badge.primary.variant.bordered.border": "S:bea97df589f7152fa6d9294c7bb2c922d5b1122f,",
+        "badge.primary.variant.filled.bg": "S:e18b3b3e00beba94708ca0f7a479991968817d8b,",
+        "badge.primary.variant.filled.fg": "S:d91fddd758c3f3981e1198f96bbbb39c5959f0fd,",
+        "badge.primary.variant.outline.border": "S:15f17cc29314ae09b0142209971b2a778551391e,",
+        "badge.primary.variant.outline.fg": "S:db377f2854066e62c2a37063aa6944709a2afb7e,",
+        "badge.success.variant.default.fg": "S:ccd9cf04490c9f4b22b46c71425f516361168c46,",
+        "badge.success.variant.default.bg": "S:691fa2fb3efdd1bfc778ee590607f279621638b2,",
+        "badge.success.variant.bordered.fg": "S:3efa43bb63900056cb253ffc89646c9c6df5e3ed,",
+        "badge.success.variant.bordered.bg": "S:bb24350c12df3b45ac8f582e571860776286b2ed,",
+        "badge.success.variant.bordered.border": "S:edecc67a813132d88ce45a4162bcba83f9ebe19f,",
+        "badge.success.variant.filled.bg": "S:426f22199d551170322fa7cfb2470b8ec3f09333,",
+        "badge.success.variant.filled.fg": "S:0789ba7f6f83f6ac45ed6f0ddc803449c26ab3f9,",
+        "badge.success.variant.outline.border": "S:e18431645b5a69cd8c0371f3d9bd3c2784ae4900,",
+        "badge.success.variant.outline.fg": "S:75e003ce7824e542a00f53fd281d933baed961a2,",
+        "badge.error.variant.default.fg": "S:c7bbe162b574069bad3f537abaaed442700677ed,",
+        "badge.error.variant.default.bg": "S:c883d5e92018e16178d436ffb8f3bcdeb0333c37,",
+        "badge.error.variant.bordered.fg": "S:2676b55fd458b998fe9939601028d9828dbc3c16,",
+        "badge.error.variant.bordered.bg": "S:5c62eeecfb9ecd01f6bc21803cf028331d9324c2,",
+        "badge.error.variant.bordered.border": "S:ae8437195211eb4d573ac93c71ded0be2288f836,",
+        "badge.error.variant.filled.bg": "S:385933e135bdc78fb9dc8a609c2cea9d92cfcaaf,",
+        "badge.error.variant.filled.fg": "S:ad6622a1a7dbdb8d0a20afe7f72188a3a3f8960e,",
+        "badge.error.variant.outline.border": "S:98998ca544c1735652c65f566037f1f49e439016,",
+        "badge.error.variant.outline.fg": "S:a4b0543f29db395150f19dc104c2351e6f8ce745,",
+        "badge.warning.variant.default.fg": "S:a0270c8fc92d0b5aa7ddbb91ff9fbbb46eb63978,",
+        "badge.warning.variant.default.bg": "S:4f8dd7c0d6d21018160668b6aecb7119c5e68895,",
+        "badge.warning.variant.bordered.fg": "S:6930075eef8a119ed0b0739a65c728919810baa3,",
+        "badge.warning.variant.bordered.bg": "S:7aa2be8a77e7795451b3b0263d4063ce658407cf,",
+        "badge.warning.variant.bordered.border": "S:f04c468463d7163acaf55ff89b623f4774920ae5,",
+        "badge.warning.variant.filled.bg": "S:9cf3cb1e2fce1c9fbda1149c5aed30ea7f18101c,",
+        "badge.warning.variant.filled.fg": "S:86e9b92902829d1976e68d7971a89d68df0c3159,",
+        "badge.warning.variant.outline.border": "S:dba7bbd864428627da030174982f5a7ac182ec11,",
+        "badge.warning.variant.outline.fg": "S:49ec3f01e7a06750f09f17c675fa58ba124054d8,",
+        "button.primary.hover.bg": "S:a502b0dcdf9af244cf481b715869f615480fb238,",
+        "button.primary.hover.fg-text": "S:8bcf119f2226045b388764e35f66b9e349999289,",
+        "button.primary.hover.fg-icon": "S:bb172ab938854dfb67247a9407eb8874256a7aeb,",
+        "button.primary.hover.border": "S:df0c22c0207607fd882f84935ebaa4b55da19f84,",
+        "button.primary.default.bg": "S:07cc0723fb90e15b76ceccef8f461d75a020189d,",
+        "button.primary.default.fg-text": "S:c41f139f9d93070b8b6eb5618f89e9cc0e43bfc2,",
+        "button.primary.default.fg-icon": "S:dc596a8bc6e9069ab7a2235daa06d148cf725ee4,",
+        "button.primary.default.border": "S:79b6d7086f54dc027d99026f06b47b0733e8134c,",
+        "button.primary.pressed.bg": "S:b974f0d8d89bf3c678c815f3cd72d4cd1edabf99,",
+        "button.primary.pressed.fg-text": "S:335dfa5b307c707ad7332f1378b5b0c9a43105ae,",
+        "button.primary.pressed.fg-icon": "S:75d0d12d85aa8afa08b2b81548be40b1a8373dbc,",
+        "button.primary.pressed.border": "S:c10218ca7eb8d09c30f5bd3fc4e79c4f7e55fbbe,",
+        "button.primary.disabled.bg": "S:ef93866480fde80c3b942793c154e8a73122a64a,",
+        "button.primary.disabled.fg-text": "S:f3d756b35680c74831e6f082326bfd52936b1572,",
+        "button.primary.disabled.fg-icon": "S:aac30470eadb46777ead817e85788b65249efa73,",
+        "button.primary.disabled.border": "S:ce3bd316fda6dc7c84f37b766b447326ef9cf825,",
+        "button.ghost.hover.bg": "S:e0d1c47917db9c5894e22342e1481dcb120c5d9d,",
+        "button.ghost.hover.fg-text": "S:e4b2c573871fe7e7f226dcc975af4e764ee3e5af,",
+        "button.ghost.hover.fg-icon": "S:07a9982f41c123f6884d7eda82a2da575c1677ef,",
+        "button.ghost.hover.border": "S:690cd20809faba29d41feb202f7c7d7be081a5da,",
+        "button.ghost.default.bg": "S:34a341b438200ea52bdc1e58c4c51b3d6607cf78,",
+        "button.ghost.default.fg-text": "S:e6ca332a40de34b88a4e7ba2054467896506afe6,",
+        "button.ghost.default.fg-icon": "S:327f210ba737e45deb6898f49e83ae5ba745f0d4,",
+        "button.ghost.default.border": "S:2aa8ce3d7ca41667702a4fc6e830178be5033782,",
+        "button.ghost.pressed.bg": "S:7e9e22d1b9217d71156a9331f90c3b8fc6b6ca6e,",
+        "button.ghost.pressed.fg-text": "S:d9be57a0c294f1acd6fd79baf0a24abf4e0faa2d,",
+        "button.ghost.pressed.fg-icon": "S:c1139ccd58a76617fd5401168749d9f85d1cd1c9,",
+        "button.ghost.pressed.border": "S:7e53ecfe0080861d63fb06985944b6c03fc99b51,",
+        "button.ghost.disabled.bg": "S:fdf4144b4880ee2615ba894775fa727c5f17c54e,",
+        "button.ghost.disabled.fg-text": "S:dd90bdaf4cca58724be9f4b84f8a5e4fab503531,",
+        "button.ghost.disabled.fg-icon": "S:d24fb8b58c52484707024a82538d35ecea33562c,",
+        "button.ghost.disabled.border": "S:9e24fc2b5189ee5c748ba18a4ca3a94da80b58b9,",
+        "button.secondary.hover.bg": "S:67e3e133726bc1c177b15604e4846e8ecb2a6efc,",
+        "button.secondary.hover.fg-text": "S:0a8e460c174ffd3baf1262c6e30c6b1d3566119f,",
+        "button.secondary.hover.fg-icon": "S:f4d1f3522ff58ef4c10859ffad21ddc249094526,",
+        "button.secondary.hover.border": "S:fd6bd77298ab943169c580417103ce0c11517a69,",
+        "button.secondary.default.bg": "S:8dbfafdbbd6f060588850c7a33e93aa15a3c687a,",
+        "button.secondary.default.fg-text": "S:12db6874455522cb9024921e57a80cf3c248c510,",
+        "button.secondary.default.fg-icon": "S:aa44cd4a140b0cdb95915cf3fc9a2621a0d7a980,",
+        "button.secondary.default.border": "S:5d394934efc853f471780fc1fbff4ab35600a1fc,",
+        "button.secondary.pressed.bg": "S:40d1fc396abda80b503ece43fe73a7bf86899460,",
+        "button.secondary.pressed.fg-text": "S:a4bea6890d0e815e804ec31a71a80bd770707a66,",
+        "button.secondary.pressed.fg-icon": "S:733ef9a91191c6cc63cb0ab39c111f774bf673f1,",
+        "button.secondary.pressed.border": "S:0bb25d3b07495cd52a3df544411be63d9784259e,",
+        "button.secondary.disabled.bg": "S:98feab4031218da56e63bc7dd73f5435a52f59fc,",
+        "button.secondary.disabled.fg-text": "S:32895c9b605924f443e281e41c665f5e8220a03c,",
+        "button.secondary.disabled.fg-icon": "S:0e26dbedb8c883b71c05dbc4f3e9921fd4826d9f,",
+        "button.secondary.disabled.border": "S:05d5f2aa82c87f0d1987fcd6efe543395fed8859,",
+        "button.success.hover.bg": "S:e132b280480adfc5d9ebf5f82d65d6137bb56938,",
+        "button.success.hover.fg-text": "S:842af79c24a929b592b9381fda8bbd916e01174b,",
+        "button.success.hover.fg-icon": "S:5e38dd1a3c18a3f2e51bf2e85ff6a294cc3c52a8,",
+        "button.success.hover.border": "S:83035d70ccda3527a39c091552a5815c89cd2c0f,",
+        "button.success.default.bg": "S:ad50d67a519744cf981dcd339107bc0c1f95a85f,",
+        "button.success.default.fg-text": "S:58229d269a4d18b5ba1c5d26c5b7965bbb6db5f4,",
+        "button.success.default.fg-icon": "S:c548c59a70ff3220b4c0926c3ef0716d7ad6774d,",
+        "button.success.default.border": "S:58daab988c91eea8d668a224a201f3247e1af0c5,",
+        "button.success.pressed.bg": "S:28af74328da4c825fde08fa3fc2d55694b46c218,",
+        "button.success.pressed.fg-text": "S:8a933d745d72863ff6be4da13aafe566de88cef2,",
+        "button.success.pressed.fg-icon": "S:2be4f7828c1a7318f46050694e3a8515a321e43f,",
+        "button.success.pressed.border": "S:e8c6bb17cfb34f0374f08ece9c1b79bbb9ecd594,",
+        "button.success.disabled.bg": "S:bf44bfb1ee82c2d516b3698a4a5fecb8b4a6e662,",
+        "button.success.disabled.fg-text": "S:d52b737cbe1ed95424494fb2a94aa281b291b932,",
+        "button.success.disabled.fg-icon": "S:36483aadac94db417bf3b06d0944da230d484c49,",
+        "button.success.disabled.border": "S:aee83fd06864ba0be49b165ffe62c8a238123fa8,",
+        "button.error.hover.bg": "S:9af95fa00a54ba364ccca7ace801add50df43ebc,",
+        "button.error.hover.fg-text": "S:220299bb274137cb028b1722d3130703d9d7f591,",
+        "button.error.hover.fg-icon": "S:3cde29baf9609a8e265834dac73a7b280d5728eb,",
+        "button.error.hover.border": "S:055f054e6c121c9549821abe1779649a3a207fb1,",
+        "button.error.default.bg": "S:f2fa5bc9e7400b3cf367778bcb0c19fa7fd81b71,",
+        "button.error.default.fg-text": "S:aca8aca7c87ca31a4648596f48583bd2923cadf5,",
+        "button.error.default.fg-icon": "S:6cd84202545099c37ddd68b233f61d566d21dfaf,",
+        "button.error.default.border": "S:1d45cab631f4c996f20cdbbd0a17bdc8d7fb4053,",
+        "button.error.pressed.bg": "S:70a0a0ae75b218e382d09f98831a3011931f8875,",
+        "button.error.pressed.fg-text": "S:f96ea43b9a9e9e0b73431b85f321fb18ed6cd0b8,",
+        "button.error.pressed.fg-icon": "S:8a997b341ce586b7be9460e3642738e06fd96b15,",
+        "button.error.pressed.border": "S:1bdece493cd8b855cef433876b034dd9b930536d,",
+        "button.error.disabled.bg": "S:7b3a8c62d8c4f71f3a62cf69f39e13f0556d5f71,",
+        "button.error.disabled.fg-text": "S:1f7fcd97edaae7517f15bda6612125041a58008d,",
+        "button.error.disabled.fg-icon": "S:2c68cfb6df2c8ca24c41e7d5ccf71c9f4f73db4b,",
+        "button.error.disabled.border": "S:527dc3354e9545aeffa46e09d454dd432e322fd3,",
+        "button.warning.hover.bg": "S:95d721410b9e83e0c5a6edf2f5a17261a1772786,",
+        "button.warning.hover.fg-text": "S:d17bb46d9d421a92fd4e3df5f96988081735ac6b,",
+        "button.warning.hover.fg-icon": "S:b13543b173bb0c1a101dd62259f48490c1df9f04,",
+        "button.warning.hover.border": "S:c401ebb487e970bb5e1ef05d71f9383e2222629c,",
+        "button.warning.default.bg": "S:d86bc099e8211dcaec689a7cf1f4f4654e58d9da,",
+        "button.warning.default.fg-text": "S:2a74c0d07eaaf4c87635d9fb21d556863b790c34,",
+        "button.warning.default.fg-icon": "S:2b7c53f646a723c501115204905f52c114443540,",
+        "button.warning.default.border": "S:f7218ce5034293e61c99ada79f21731f84fde8c5,",
+        "button.warning.pressed.bg": "S:f59e13cbf318ea9963585eccbbefcca4e40cae96,",
+        "button.warning.pressed.fg-text": "S:7e11e8568fa52341bd2aa35eccae6653b3540c3e,",
+        "button.warning.pressed.fg-icon": "S:30d2821ec08003433ecc7ced620382ede65a81ff,",
+        "button.warning.pressed.border": "S:204285789fb55d17d6824b4c1158f01cc50d3d00,",
+        "button.warning.disabled.bg": "S:ebef43da37ebd52848717f37e4c1224b972415a4,",
+        "button.warning.disabled.fg-text": "S:848fc3ef049907bc25c7eb5850c992103ae6f430,",
+        "button.warning.disabled.fg-icon": "S:79c3cf74be921a28c9851075c40186df4c6b1b08,",
+        "button.warning.disabled.border": "S:c3730984845226725c632cd586d4c880ddfb9a57,",
+        "card.bg": "S:c5e57c8c78bd17513af64254e5a14f53228ef01e,",
+        "card.border": "S:f0b228cad92a73f8c293ac5de8b001b86f03e742,",
+        "card.fg": "S:71c26fa158c192e63e91b7e3ce79326b59cf4d9f,",
+        "card.devider": "S:6a3d2035d54804ed8c578330a75d05856ddaeb03,",
+        "card.warning.bg": "S:5909a776f9862fb193a24b82c891a9b761ed2e56,",
+        "card.error.bg": "S:09118a31d7bce4c0887a117a4acd8106099fc041,",
+        "card.success.bg": "S:fb5d6d101b6ce4894b5491e1a99275a58640f77b,",
+        "card.success.fg": "S:7af2d528b9924a919fed8c20c0ec238b5dae41c7,",
+        "card.success.onCardBox.bg": "S:7674207fb11445505fb074dee851271d814f46c4,",
+        "card.success.onCardBox.fg": "S:949ba6d15ca33f6573f20557ac0ecb9aeaa9d5f7,",
+        "card.onCardBox": "S:9754a213dd69fd30e988b178cb7425ae3fae4f46,",
+        "bg": "S:e7bac6fef6bad620245c03f080563cdf125e788b,",
+        "fg": "S:4e738b882945cb41b180af0a59ee7ae4158293fb,",
+        "input.defualt.bg": "S:066c4b9ce44b336bdbc9b55b5996e5bdc1840e6f,",
+        "input.defualt.fg-text": "S:425f1c54f6626fa4072a8564e33abb6b8ad94638,",
+        "input.defualt.fg-icon": "S:41514805e0497060a82414aabba6026bc2c72a45,",
+        "input.defualt.border": "S:2f003799c812365a631b089634414bcc4f14658f,",
+        "input.defualt.hint": "S:7e81dd1ef4ba11599d168a05a058857b594ed227,",
+        "input.defualt.line": "S:d3af7f04b54aa0cb3e539e5537aaaa85a6088ce9,",
+        "input.defualt.placeholder": "S:c03eccd26dd33ce808a17996af99cd9a7c9614f1,",
+        "input.active.bg": "S:aeef136c3a27eee912d46a8710dd898c738fda71,",
+        "input.active.line": "S:d43aaab2a2d8aafc52bf2512df85ccfe953dc17d,",
+        "input.disabled.bg": "S:f6afb73a3f30525eccaa85da00644f910eff1438,",
+        "input.disabled.fg-text": "S:a10d7367433148a4dbffcc6ec0a21039950b88d3,",
+        "input.disabled.fg-icon": "S:afe194a6857598ff553fd0e4c82a568712e3535e,",
+        "input.disabled.border": "S:0495881d870685a637d075685050d92cc791fa16,",
+        "input.error.border": "S:214984a829cf46caa933ed52637ec557ca327650,",
+        "input.error.hint": "S:6db03b693fc6c015a5ef51febb666dc4e01d7686,",
+        "input.error.line": "S:d1a00322396686db07dcc5dde868b7960428147f,",
+        "input.hover.bg": "S:a666ee75c2b1f1ec40662dbc5f2a6abf93e32872,",
+        "navbar.nav.item.default.bg": "S:46d5b4668ecfae0e785a8f5ac8d8b80dfb22840a,",
+        "navbar.nav.item.default.fg-icon": "S:9bbf29c1db220b0abfcc1fec3ebb6ea80b05f51f,",
+        "navbar.nav.item.default.fg-text": "S:acaba021bf1d1761eede4d95d04f397093801dd5,",
+        "navbar.nav.item.default.line": "S:5a2e020b7471dbde8571d573486bebdd1e7b3a68,",
+        "navbar.nav.item.hover.bg": "S:ffe345f598f2725489965455082cf2af855ae738,",
+        "navbar.nav.item.active.bg": "S:ab306017ba7fd1ed99d06ba6fd83288ae1daa155,",
+        "navbar.nav.item.active.line": "S:768e576611811bd7a9f61259a08afc9ba6b06498,",
+        "navbar.category.item.default.bg": "S:e10bfb0fd67d9b2b604b45d7da70153b1d61c090,",
+        "navbar.category.item.default.fg": "S:cf0d0463ae45f9f609f91fe311d97d647c2a747a,",
+        "navbar.category.item.hover.bg": "S:b9d153f077bf1077683647e37880b279fea384cb,",
+        "navbar.category.bg": "S:64c4619dcb77c92b675e9f5ccd196e306f2d2a16,",
+        "navbar.category.fg": "S:347798bc00c8267a14899f9cc907f891b14c053a,",
+        "navbar.search.item.default.bg": "S:16637052516f2268b10f1883375b5e8a608c81eb,",
+        "navbar.search.item.default.fg-title": "S:919384ca74f7f8904d3af536c2e894e1d013bc5c,",
+        "navbar.search.item.default.fg-price": "S:ef6f13acf120a0cfbce1dc76ee37fa7ab8966795,",
+        "navbar.search.item.hover.bg": "S:9e289c64a85929e759d21fbd28f09be980b92de2,",
+        "navbar.search.item.hover.border": "S:44f6b8c1295f67015fbd6e741d11cfeb5a59f4f7,"
+      },
+      "$figmaVariableReferences": {
+        "Background.Background 1": "68dec6a616bd4e82a23617c9a0bfb9c50de9941b",
+        "Background.Background 1 Hover": "48b4a5886d00b9a8cfd4cc29a1a10385b69a67ee",
+        "Background.Background 1 Pressed": "2b1e4fc9f4d276f16afa8935a431e57095b47ffd",
+        "Background.Background 1 Selected": "55c5224e4b15a80bb8a199d23302978e81eb5d96",
+        "Background.Background 2": "b53a5755c7e597fc609eb45690a9c24bf174f3fe",
+        "Background.Background 2 Hover": "defefbf059c5bc791c1016e3d838e6303ce33040",
+        "Background.Background 2 Pressed": "8b076b7e4ba8352e6ce8f5f1efd853e90982fa88",
+        "Background.Background 2 Selected": "f685040c839d3b1e4e6bbd5f735b0ffb76ece5a0",
+        "Background.Background 3": "a0196bf0f7c38b33a62e6ee7073f2ea7d348489a",
+        "Background.Background 3 Hover": "ff5d16a84d73eb6236fb13fed595afc349498db4",
+        "Background.Background 3 Pressed": "bc1bce9c08dfbd839638c03feddf0b543f48b9e5",
+        "Background.Background 3 Selected": "6544755f829fd077b656b88e2255d634e511cff6",
+        "Background.Background 4": "694cd529da885a316d5af619ce09d434c0a5768b",
+        "Background.Background 4 Hover": "8f153657d883840194be7832df8a9a40fbdc2b7b",
+        "Background.Background 4 Pressed": "827ea29a237dbab346a92393fdf9d1ad42fed113",
+        "Background.Background 4 Selected": "bf2f27d8de979f181d25f2c7313e181a44f04d08",
+        "Background.Background 5": "7cfbb37c223f59101f4104f0452bd93d888793c7",
+        "Background.Background 5 Hover": "3890925b56ac65cd57b95b4de7fe2f947bba1f2c",
+        "Background.Background 5 Pressed": "dc8ff0bc95d780a4fcb71b1bac11b695152f8322",
+        "Background.Background 5 Selected": "a95bc6bd7e59f520c8a91ac484e6b049d14ad619",
+        "Background.Background 6": "d054e565d85269ad632e3eeb7bfcc187c585e1fd",
+        "Background.Background Inverted": "ab1521cd12951e58e6d135c8ab18529b586e7abe",
+        "Background.Background Alpha": "56980f2aa37fc3935ee52876f126d897dc68fa8e",
+        "Background.Background Alpha 2": "60eac1d75a67348116192e89849de895a05b357e",
+        "Background.Background Static": "f301c6d1011c6d112288c9b8137d033deffeac86",
+        "Background.Subtle Background": "37a1339850b72ddaaa042e8a3c901db01585a1fd",
+        "Background.Subtle Background Hover": "c99b05be959a77bc92a0e192173ba70a021b3069",
+        "Background.Subtle Background Pressed": "3904a4e22186c0249a004d06bbb3f27b5e530572",
+        "Background.Subtle Background Selected": "09f1e0eab7b2883de85dea446af73a0f8fbe5e9b",
+        "Background.Subtle Background Light Alpha Hover": "e7c35e9ec4ee78737ba6252794a7dee41c78f678",
+        "Background.Subtle Background Light Alpha Pressed": "178fb47bf6daff1ea88a33d18c7d662fcbed91ea",
+        "Background.Subtle Background Light Alpha Selected": "b4389aee55685ae8a8bc16b5bcb4bc657e93c5f1",
+        "Background.Subtle Background Inverted": "befcba458625fe1be9fe21d06ba0f9c37a734a92",
+        "Background.Subtle Background Inverted Hover": "a8a65ab2626bd50f36445ae75f2188e44632f360",
+        "Background.Subtle Background Inverted Pressed": "a1d01b1e3ae3d280d862c943311fc80eca58a289",
+        "Background.Subtle Background Inverted Selected": "10876821bbb5dfbaa3f5a856d01d18125e469690",
+        "Background.Transparent Background": "8c96a9cc150029460f09f77ea43ae236e6766246",
+        "Background.Transparent Background Hover": "96ac9ccb741fc1b88c5769574cb1065d153a8096",
+        "Background.Transparent Background Pressed": "afe66ab2e888bee357e59e84b941cc1bcdde1ab6",
+        "Background.Transparent Background Selected": "3c9c0cdba9a515a2b465f795e364aae7b66c4466",
+        "Background.Background Disabled": "a5d3cd82ba9ce650988f6961aca11a61fcec7034",
+        "Background.Background Inverted Disabled": "034ff91ff3596b5cdf6461f6a589ae9fc9e45046",
+        "Background.Stencil 1": "b096138262cd03c79bc5afb12cf20beeaae979a6",
+        "Background.Stencil 2": "a30fc548ef4ada642963fb122f768974d2e3f157",
+        "Background.Background Overlay": "8978070d9c0fed74580dfd1d5d2422b0085ce6de",
+        "Background.Scrollbar Overlay": "6e943bc8acc385ebec126f69acc73f097c73f91a",
+        "Background.Error Background": "a34ebbd9fa700ecde907451944718271d3c9b5d7",
+        "Background.Error Background Hover": "72e4fb75be58f2b5498b11ee201f378500623461",
+        "Background.Error Background Pressed": "3cf6714d18bbd7de354fa4f078536275b0e72039",
+        "Background.Error Background Selected": "527fb68687e40b499034c2b61d81b4de6eb2b35f",
+        "Background.Success Background": "d8a3d0f132840df46ba1486191d1461165754e59",
+        "Background.Success Background Hover": "435696a07d0a9c5ff2e5e45be9f11aff98453f9e",
+        "Background.Success Background Pressed": "b8b6d0fa399269ab9d78eb24dc4c359d3e8202e7",
+        "Background.Success Background Selected": "13f84a368d339956769767231045d8307b3450f6",
+        "Background.Warning Background": "72eb79bebe51f158046496d42acca3651b989a87",
+        "Background.Warning Background Hover": "ec448241baf506df7f03ad641261a0a227c08f15",
+        "Background.Warning Background Pressed": "84ffc63755bdbb6d93b267141583896e41bd6fdf",
+        "Background.Warning Background Selected": "35f74292d962346b1c081e46b532723060a4d29b",
+        "Background.Brand Background": "e80e4290931ada06c7ac6311c2867a9840b570eb",
+        "Background.Brand Background Hover": "00875c03a5f10cc35a9bc559b59e569d135ad208",
+        "Background.Brand Background Pressed": "155f8b99f3222015d198b6252b7bb45fc305011c",
+        "Background.Brand Background Selected": "b6dbc7ae3ac7431a5d0abc319254f4848736c507",
+        "Background.Compound Brand Background": "70078ace3f7075b4aaca501415a238f43511c297",
+        "Background.Compound Brand Background Hover": "811f130312be422c5d6924fbcf452106b6122068",
+        "Background.Compound Brand Background Pressed": "4ae89b347371f486ebd5beac1679eddcc1ffcabb",
+        "Background.Brand Background Static": "f439fe299255defce010f226f69b2241c64ae27e",
+        "Background.Brand Background 2": "e5f33a7b989a02888423f7168e212079df960811",
+        "Background.Brand Background 2 Hover": "289ef31c3e240e297130c157dab23c4e88e2312e",
+        "Background.Brand Background 2 Pressed": "c35e6d5c1b564abb687acdba489682ce21a87aba",
+        "Background.Brand Background Inverted": "bc4a6567d656faaa8c6bcd9552bab49f6a889cc9",
+        "Background.Brand Background Inverted Hover": "9d841e5c8b45c5e7dd0a17a3a5654e2559b269a1",
+        "Background.Brand Background Inverted Pressed": "4030d43e56159758eadcb6d7ef071465f7f0727d",
+        "Background.Brand Background Inverted Selected": "ddc0eb19401575077889662074936938dd53872b",
+        "Foreground.Foreground 1": "1223ce1cf18681a03fd9b79b6437228b1984a897",
+        "Foreground.Foreground 1 Hover": "0fd7cc8218dca4e8c648dc085517733e30549616",
+        "Foreground.Foreground 1 Pressed": "95526b62b2c182839ea96e23e4a2d1a776c4d6e7",
+        "Foreground.Foreground 1 Selected": "305644ff0787816b9c01d7ac1f5803324e4c3666",
+        "Foreground.Foreground 2": "0d7a90f954c1a203e8513d3060d05adf9959d080",
+        "Foreground.Foreground 2 Hover": "294f10b85909f0c5838e45ec5fdf9f3294e39ac0",
+        "Foreground.Foreground 2 Pressed": "af043c927efb2cab9b59ab2a20162e23114f73f2",
+        "Foreground.Foreground 2 Selected": "6be0dc6b1b1d4764dca9b822bc44a62c517abe68",
+        "Foreground.Foreground 2 Brand Hover": "a890358559418bde925a822e9226be6bfae58ac5",
+        "Foreground.Foreground 2 Brand Pressed": "eb0481b9b09fad2dff80aff5f5501e5dc7a3c908",
+        "Foreground.Foreground 2 Brand Selected": "ffea0ec7f2163ca1518de6833ba66d0461a2454b",
+        "Foreground.Foreground 3": "60a1cbca59233e669e62c05a2b53a38431435985",
+        "Foreground.Foreground 3 Hover": "73732acf64cdde8a3afc6d83669649e8a224dcfa",
+        "Foreground.Foreground 3 Pressed": "cb1297074532d43e5694b1025cbb99e166cd2da6",
+        "Foreground.Foreground 3 Selected": "d9af5d27b6f10ff7de014ee299ac847c13c10c23",
+        "Foreground.Foreground 3 Brand Hover": "6476fe187e6a8dcdbc8794de9e33afe26d86efc2",
+        "Foreground.Foreground 3 Brand Pressed": "90db1be3d3e06166f1625e90cd216c9d19db50d0",
+        "Foreground.Foreground 3 Brand Selected": "ee398f2322d14374875e8009eb1a9f60a875ea38",
+        "Foreground.Foreground 4": "98d118d3e777b9b4d452c8b62a66823a848b77fe",
+        "Foreground.Foreground Disabled": "fd25cb4a71ae1903157de3e4df02149056f5ae73",
+        "Foreground.Foreground Inverted Disabled": "136a60e1ff3c89965cbcc2e7b894a25b39d976c3",
+        "Foreground.Foreground 2 Link": "746342d566cdea24bb6fd263317ab9f8c0dea0e0",
+        "Foreground.Foreground 2 Link Hover": "472cf0daef955bea7f93f7aaa8906b4c2b05f861",
+        "Foreground.Foreground 2 Link Pressed": "5d920b5340a89da947d487949e42f5403789a4bb",
+        "Foreground.Foreground 2 Link Selected": "90e55305783d57fefbe83755a70d737513e028d6",
+        "Foreground.Foreground 1 Static": "1f9e2ce436a5eafa8a8a5e9a575b034098c40380",
+        "Foreground.Foreground Static Inverted": "0f3ba0acec3268abc3a037ce857389fdb83018f6",
+        "Foreground.Foreground Inverted": "0b42c699174001c491c0f420612fd0092e7154cf",
+        "Foreground.Foreground Inverted 2": "e03add14024b5363805e01f815018ada4748f082",
+        "Foreground.Foreground Inverted Hover": "9bcf4e86117af7d5203d840f35019ad9c55a41bb",
+        "Foreground.Foreground Inverted Pressed": "c023f405ebe31935006eb2d425a8a2c2c06143e5",
+        "Foreground.Foreground Inverted Selected": "893ca40cefcc30f0e9eef3f93b6c22ca83e8abd7",
+        "Foreground.Foreground On Brand": "ef7a6f861a71292aa17f23ca025c9a850c2ef8e9",
+        "Foreground.Foreground Inverted Link": "4aae8f64b9ea2858b5b18982cec7946cf87e3a7a",
+        "Foreground.Foreground Inverted Link Hover": "c966aa2d45a84017ba0afbef2a09289159323830",
+        "Foreground.Foreground Inverted Link Pressed": "14b1fa27f2bf31b962f7ac39dc0319930a1755a2",
+        "Foreground.Foreground Inverted Link Selected": "8b8cb6891d1f09e7af2fbb1272cb489fdc30efc7",
+        "Foreground.Brand Foreground 1": "6f41d9b942de0e566e4d7c8cafe8a7b99f0141c2",
+        "Foreground.Brand Foreground 2": "b12f9ae20ec7310cba12efee68ed469ce447fb1d",
+        "Foreground.Brand Foreground 2 Hover": "6631e2aeb6f6f06622ae4a8bdf9e0516d513445e",
+        "Foreground.Brand Foreground 2 Pressed": "1b567b21542d7c5da3ab15ddde8cf00910b317d4",
+        "Foreground.Brand Foreground Link": "e9e40a8f8c79333e5e3bf514ce4d7f0a0c49f618",
+        "Foreground.Brand Foreground Link Hover": "5fce6a2f52cf65c9fae1287c32be6d340c137cbc",
+        "Foreground.Brand Foreground Link Pressed": "506a3af4b157257f47caa69f180d28c62d6b61cf",
+        "Foreground.Brand Foreground Link Selected": "3405008c2f98494403eebed45f552c7bf1435b7c",
+        "Foreground.Compound Brand Foreground 1": "35b284ea2062475bfeed0cfe7ce4283740f729e9",
+        "Foreground.Compound Brand Foreground 1 Hover": "f47d890b18b55026258f71c99a2e769f8c0add9d",
+        "Foreground.Compound Brand Foreground 1 Pressed": "f8c89ca41ca9f810bb9f4d7c536ad24d6c185152",
+        "Foreground.Brand Foreground Inverted": "a446a199d178b7d2e1878f5058ba5633feb09c7e",
+        "Foreground.Brand Foreground Inverted Hover": "4db0fcd9ee7e4eed8704d7d37640aaa617def179",
+        "Foreground.Brand Foreground Inverted Pressed": "c71e5c7ec836059110522416c9393d6c1adb4822",
+        "Foreground.Brand Foreground on Light": "7b180baba90855f7b92c3cb3e1656a9c396585fc",
+        "Foreground.Brand Foreground on Light Hover": "a53685eabe3ec4d626939b4dd166396c28287b8a",
+        "Foreground.Brand Foreground on Light Pressed": "27834857fcbd6ff575802abaa256038dd9a090fd",
+        "Foreground.Brand Foreground on Light Selected": "d9275c51dde602995e1005ba6dba5daaeea42729",
+        "Stroke.Stroke 1": "16ed143dd4c398f2a4f6f4cdf5214d1c4dfd1719",
+        "Stroke.Stroke 1 Hover": "3b0f19315e3515cdb471daae010f0355c39f6f5e",
+        "Stroke.Stroke 1 Pressed": "43b29e46498853b812cf44a353c7619f3bc286f2",
+        "Stroke.Stroke 1 Selected": "5836d5af495fceda7933a8732e45fd459e58d512",
+        "Stroke.Stroke 2": "e8ca167b490f2be80fa7c58b73c508458ffa80d1",
+        "Stroke.Stroke 3": "0a71ba995827bd93444f0994e16835fa2a98803f",
+        "Stroke.Stroke Alpha": "71bd6384c7c5e13294f7a280b5997f6ce948723a",
+        "Stroke.Stroke Subtle": "ef0cd6db22f79cc7f5ffc6480f50befd62724bb0",
+        "Stroke.Stroke on Brand": "40bc18c1ec5f799d381013266a29ebb6571000df",
+        "Stroke.Stroke on Brand 2": "a3eadf069b49f5968b5dd7ed151ee2ecc877c49a",
+        "Stroke.Stroke on Brand 2 Hover": "3254f3e4a1cb08fc03211137af058dfa511e3c83",
+        "Stroke.Stroke on Brand 2 Pressed": "9e2bee5414d427254a59ceace4fa1ddf7cdc482e",
+        "Stroke.Stroke on Brand 2 Selected": "7b9a65f11f677b36cdd5e032980eadd985c86979",
+        "Stroke.Stroke Accessible": "1b61aa942e3b059d8e05a4214aba0da624809447",
+        "Stroke.Stroke Accessible Hover": "b9653cd23d54c39a9fe66bc4adb609ef40e1735f",
+        "Stroke.Stroke Accessible Pressed": "fdff05d351ee66af53eef81b7c1153261d74414c",
+        "Stroke.Stroke Accessible Selected": "b1e9c0c8f0707ce306e77d981b80ed4ba1c7dfcc",
+        "Stroke.Stroke Disabled": "8356e23431edee54f12fe8de47f19a260740c723",
+        "Stroke.Stroke Inverted Disabled": "e3fa33f104d0b73288f6811ff36181ff540a615f",
+        "Stroke.Transparent Stroke": "a15e268c795a0ebe886ba949c0d6926a3a3c22a8",
+        "Stroke.Transparent Stroke Interactive": "1e048fe08a4abcef6cb727a4791c6fe708e431eb",
+        "Stroke.Transparent Stroke Disabled": "15fd3774d3992f9ca685dee4a33d05459ec26251",
+        "Stroke.Stroke Focus 1": "4a01ab1a8fd08551e65712e89593609c18bdc027",
+        "Stroke.Stroke Focus 2": "b368f7ee51a6f29b3bbe1cd9788a707c7ab3dc47",
+        "Stroke.Brand Stroke 1": "3997b59c9441e55316e33b117204c1574003792c",
+        "Stroke.Brand Stroke 2": "d7fafa9ca8f2a2c5e43ad6b6a600ab4f63161498",
+        "Stroke.Brand Stroke 2 Hover": "c3755891d88ab8397fa400d38a46ee3121ba75d4",
+        "Stroke.Brand Stroke 2 Pressed": "c56cf9605c71eab3a72ef4b7ec819240c035c838",
+        "Stroke.Compound Brand Stroke 1": "fa894d958cbab7e4a9a7f8f44c4f5205804961e7",
+        "Stroke.Compound Brand Stroke 1 Hover": "48a31050974a0061c8bd6e2fcb52b889834e382b",
+        "Stroke.Compound Brand Stroke 1 Pressed": "cf0b5e906f99c0fc0d4638f98a0d277c5399c617",
+        "Shared.Red BG 1": "e3514080542dedf7822185f402abc05273b21bf9",
+        "Shared.Red BG 3": "2bf4ad1417589b4f152a9687fe46b02060c2ec1f",
+        "Shared.Red FG 1": "9e8ec3992a40280883b774b0df65f8d0fbd89e9e",
+        "Shared.Red FG 3": "b4109d4abe074874b71c4bdcabc7515d94a20ae5",
+        "Shared.Red Border 1": "db0dd49f70bc3cba745dadcf0075680235aef273",
+        "Shared.Red Border 2": "362db86a996b34e791c28e7011d5dc9c84a49b75",
+        "Shared.Green BG 1": "fd578230e0eecd619b590be80db0837495057e9b",
+        "Shared.Green BG 3": "b9e3661c8db4a48bf23c055b6c6a8aaa10fb7d02",
+        "Shared.Green FG 1": "f0e96d71a90a752544856ef752641f7e1043639e",
+        "Shared.Green FG 3": "35b42293dc9fbf9e5a0f2df36731c4e0086a49cb",
+        "Shared.Green Border 1": "b65b9e05375bdc1a21dcf1c60cf0199a522b73fe",
+        "Shared.Green Border 2": "82384b483fcdc27c0b0d3cc657145f3e8af7b16a",
+        "Shared.DarkOrange BG 1": "939b976f2e32a875a74a7f80e86e331c68186f6f",
+        "Shared.DarkOrange BG 3": "8fbce5b67237b2e1f4beb36361efc83b19e7d97c",
+        "Shared.DarkOrange FG 1": "2322f123bd4969e2217e614e2fdbab80b2bed5c2",
+        "Shared.DarkOrange FG 3": "5504e4683543a577b08576a38f2a2f0f69f440a3",
+        "Shared.DarkOrange Border 1": "bd0589f24a8ca83a8366b989390f8eaa2a64423e",
+        "Shared.DarkOrange Border 2": "81974a92af382ba90c2203114897c4a5ed352b32"
+      },
+      "$figmaCollectionId": "VariableCollectionId:1779:50419",
+      "$figmaModeId": "1779:0"
+    },
+    {
+      "id": "43829fae46c676415ceb12a2b3445f50c0a813aa",
+      "name": "Base",
+      "group": "Border radius",
+      "selectedTokenSets": {
+        "Border Radius/Base": "enabled",
+        "Core": "source"
+      },
+      "$figmaStyleReferences": {},
+      "$figmaVariableReferences": {
+        "BorderRadius.Base": "14effe0b7bf04a550fb614ef8c788a6f48e46aae",
+        "BorderRadius.Card": "398c481c0bc06aca885d3ecf92b8ff56ceb9f815",
+        "BorderRadius.Small": "8701e8ca194da7ca9210303ec1f9cf328f73b59b"
+      },
+      "$figmaCollectionId": "VariableCollectionId:1779:50597",
+      "$figmaModeId": "1779:1"
+    },
+    {
+      "id": "8a5c619a56ce59e57e6acb210381d7d1121e01d4",
+      "name": "English",
+      "group": "Language",
+      "selectedTokenSets": {
+        "Core": "source",
+        "Language/English": "enabled"
+      },
+      "$figmaStyleReferences": {},
+      "$figmaVariableReferences": {
+        "Breadcrumbs.Documentation.Title": "61dfddf9615bd632e3adac7023c49af65994ce15",
+        "Breadcrumbs.Documentation.Description": "86564e3bbb0daf63dc9d8dc772befe2717185470",
+        "Breadcrumbs.Items.Home": "290346fd459737e27594f459629c51a5ff0d6f50",
+        "Breadcrumbs.Items.Category": "061ace0c5958f28cd49b700d98d3b415f304bbcd",
+        "Breadcrumbs.Items.Subcategory": "25ca1038b76907dc3d2931c2e0e7abb3ebcb4658",
+        "Breadcrumbs.Items.Page": "b53d0d032aa54f73d4e484ab0dccca7c62282be0",
+        "Product.Option.OutOfStock": "5fe40e6d1b0248fc6d84519f8c05e5f86d0aff99",
+        "Product.Stocks": "2b3b8f0996b53c3d5256117c89e9bfa6ed2ba517",
+        "Product.AdditionalInformation": "298255358fa0e7cd3da93ded9fb41db790321c19",
+        "Navbar.Nav Links.Profile": "d6289af16bc7cbd7380d055ba711a1b30fc02867",
+        "Navbar.Settings.Language": "8ce46a99a5b9a04a5ced1118e6c9dfd1a0f73053",
+        "Navbar.Settings.Currency": "c031a4f48ccf63ccbd8302cf17d98c08e27849b1",
+        "Navbar.Cart.Button.Title": "1ebb33879858be263856718e4cdfc270c9d47b28",
+        "Navbar.Cart.Button.Total": "366a695808c33eadb6688a41fd1ad02531509a5f"
+      },
+      "$figmaCollectionId": "VariableCollectionId:1779:50601",
+      "$figmaModeId": "1779:2"
+    },
+    {
+      "id": "c577d8e34d0f7fe644a574eb07d527ffbdebe46b",
+      "name": "Russian",
+      "group": "Language",
+      "selectedTokenSets": {
+        "Core": "source",
+        "Language/Russian": "enabled"
+      },
+      "$figmaStyleReferences": {},
+      "$figmaVariableReferences": {
+        "Breadcrumbs.Documentation.Title": "61dfddf9615bd632e3adac7023c49af65994ce15",
+        "Breadcrumbs.Documentation.Description": "86564e3bbb0daf63dc9d8dc772befe2717185470",
+        "Breadcrumbs.Items.Home": "290346fd459737e27594f459629c51a5ff0d6f50",
+        "Breadcrumbs.Items.Category": "061ace0c5958f28cd49b700d98d3b415f304bbcd",
+        "Breadcrumbs.Items.Subcategory": "25ca1038b76907dc3d2931c2e0e7abb3ebcb4658",
+        "Breadcrumbs.Items.Page": "b53d0d032aa54f73d4e484ab0dccca7c62282be0",
+        "Product.Option.OutOfStock": "5fe40e6d1b0248fc6d84519f8c05e5f86d0aff99",
+        "Product.Stocks": "2b3b8f0996b53c3d5256117c89e9bfa6ed2ba517",
+        "Product.AdditionalInformation": "298255358fa0e7cd3da93ded9fb41db790321c19",
+        "Navbar.Nav Links.Profile": "d6289af16bc7cbd7380d055ba711a1b30fc02867",
+        "Navbar.Settings.Language": "8ce46a99a5b9a04a5ced1118e6c9dfd1a0f73053",
+        "Navbar.Settings.Currency": "c031a4f48ccf63ccbd8302cf17d98c08e27849b1",
+        "Navbar.Cart.Button.Title": "1ebb33879858be263856718e4cdfc270c9d47b28",
+        "Navbar.Cart.Button.Total": "366a695808c33eadb6688a41fd1ad02531509a5f"
+      },
+      "$figmaCollectionId": "VariableCollectionId:1779:50601",
+      "$figmaModeId": "1779:3"
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
-      "Core"
+      "Core",
+      "Theme/Light",
+      "Border Radius/Base",
+      "Language/English",
+      "Language/Russian"
     ]
   }
 }
