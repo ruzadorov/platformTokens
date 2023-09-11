@@ -198,11 +198,11 @@
         "type": "color"
       },
       "black": {
-        "value": "#000000ff",
+        "value": "#000000",
         "type": "color"
       },
       "white": {
-        "value": "#ffffffff",
+        "value": "#ffffff",
         "type": "color"
       }
     },
