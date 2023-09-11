@@ -1030,234 +1030,209 @@
   "Theme/Light": {
     "Background": {
       "Background 1": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
         "description": "Background 1\n(BG 1)\n\n- Light theme\n- Primary surface\n- White #FFFFFF"
       },
       "Background 1 Hover": {
-        "value": "#f5f5f5",
+        "value": "{Grey.96}",
         "type": "color",
-        "description": "Background 1 Hover\n(BG 1 Hover)\n\n- Light theme\n- Primary surface interactive hover state\n- Grey 96 #F5F5F5"
+        "description": "Background 1 Hover\n(BG 1 Hover)\n\n- Light theme\n- Primary surface interactive hover state\n- {Grey.96}"
       },
       "Background 1 Pressed": {
-        "value": "#e0e0e0",
+        "value": "{Grey.88}",
         "type": "color",
-        "description": "Background 1 Pressed\n(BG 1 Pressed)\n\n- Light theme\n- Primary surface interactive pressed state\n- Grey 88 #E0E0E0"
+        "description": "Background 1 Pressed\n(BG 1 Pressed)\n\n- Light theme\n- Primary surface interactive pressed state\n- {Grey.88}"
       },
       "Background 1 Selected": {
-        "value": "#ebebeb",
+        "value": "{Grey.92}",
         "type": "color",
-        "description": "Background 1 Selected\n(BG 1 Selected)\n\n- Light theme\n- Primary surface interactive selected state\n- Grey 92 #EBEBEB"
+        "description": "Background 1 Selected\n(BG 1 Selected)\n\n- Light theme\n- Primary surface interactive selected state\n- {Grey.92}"
       },
       "Background 2": {
-        "value": "#fafafa",
+        "value": "{Grey.98}",
         "type": "color",
-        "description": "Background 2\n(BG 2)\n\n- Light theme\n- Secondary surface\n- Grey 98 #FAFAFA"
+        "description": "Background 2\n(BG 2)\n\n- Light theme\n- Secondary surface\n- {Grey.98}"
       },
       "Background 2 Hover": {
-        "value": "#f0f0f0",
+        "value": "{Grey.94}",
         "type": "color",
-        "description": "Background 2 Hover\n(BG 2 Hover) \n\n- Light theme\n- Secondary surface interactive hover state\n- Grey 94 #F0F0F0"
+        "description": "Background 2 Hover\n(BG 2 Hover) \n\n- Light theme\n- Secondary surface interactive hover state\n- {Grey.94}"
       },
       "Background 2 Pressed": {
-        "value": "#dbdbdb",
+        "value": "{Grey.86}",
         "type": "color",
-        "description": "Background 2 Pressed\n(BG 2 Pressed)\n\n- Light theme\n- Secondary surface interactive pressed state\n- Grey 86 #DBDBDB"
+        "description": "Background 2 Pressed\n(BG 2 Pressed)\n\n- Light theme\n- Secondary surface interactive pressed state\n- {Grey.86}"
       },
       "Background 2 Selected": {
-        "value": "#e6e6e6",
+        "value": "{Grey.90}",
         "type": "color",
-        "description": "Background 2\n(BG 2 Selected)\n\n- Light theme\n- Secondary surface interactive selected state\n- Grey 90 #E6E6E6"
+        "description": "Background 2\n(BG 2 Selected)\n\n- Light theme\n- Secondary surface interactive selected state\n- {Grey.90}"
       },
       "Background 3": {
-        "value": "#f5f5f5",
+        "value": "{Grey.96}",
         "type": "color",
-        "description": "Background 3\n(BG 3)\n\n- Light theme\n- Tertiary surface\n- Grey 96 #F5F5F5"
+        "description": "Background 3\n(BG 3)\n\n- Light theme\n- Tertiary surface\n- {Grey.96}"
       },
       "Background 3 Hover": {
-        "value": "#ebebeb",
+        "value": "{Grey.92}",
         "type": "color",
-        "description": "Background 3 Hover\n(BG 3 Hover)\n\n- Light theme\n- Tertiary surface interactive hover state\n- Grey 92 #EBEBEB"
+        "description": "Background 3 Hover\n(BG 3 Hover)\n\n- Light theme\n- Tertiary surface interactive hover state\n- {Grey.92}"
       },
       "Background 3 Pressed": {
-        "value": "#d6d6d6",
+        "value": "{Grey.84}",
         "type": "color",
-        "description": "Background 3 Pressed\n(BG 3 Pressed)\n\n- Light theme\n- Tertiary surface interactive pressed state\n- Grey 84 #D6D6D6"
+        "description": "Background 3 Pressed\n(BG 3 Pressed)\n\n- Light theme\n- Tertiary surface interactive pressed state\n- {Grey.84}"
       },
       "Background 3 Selected": {
-        "value": "#e0e0e0",
+        "value": "{Grey.88}",
         "type": "color",
-        "description": "Background 3 Selected\n(BG 3 Selected)\n\n- Light theme\n- Tertiary surface interactive selected state\n- Grey 88 #E0E0E0"
+        "description": "Background 3 Selected\n(BG 3 Selected)\n\n- Light theme\n- Tertiary surface interactive selected state\n- {Grey.88}"
       },
       "Background 4": {
-        "value": "#f0f0f0",
+        "value": "{Grey.94}",
         "type": "color",
-        "description": "Background 4\n(BG 4)\n\n- Light theme\n- Quaternary surface\n- Grey 94 #F0F0F0"
+        "description": "Background 4\n(BG 4)\n\n- Light theme\n- Quaternary surface\n- {Grey.94}"
       },
       "Background 4 Hover": {
-        "value": "#fafafa",
+        "value": "{Grey.98}",
         "type": "color",
-        "description": "Background 4 Hover\n(BG 4 Hover)\n\n- Light theme\n- Quaternary surface interactive hover state\n- Grey 98 #FAFAFA"
+        "description": "Background 4 Hover\n(BG 4 Hover)\n\n- Light theme\n- Quaternary surface interactive hover state\n- {Grey.98}"
       },
       "Background 4 Pressed": {
-        "value": "#f5f5f5",
+        "value": "{Grey.96}",
         "type": "color",
-        "description": "Background 4 Pressed\n(BG 4 Pressed)\n\n- Light theme\n- Quaternary surface interactive pressed state\n- Grey 96 #F5F5F5"
+        "description": "Background 4 Pressed\n(BG 4 Pressed)\n\n- Light theme\n- Quaternary surface interactive pressed state\n- {Grey.96}"
       },
       "Background 4 Selected": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
         "description": "Background 4 Selected\n(BG 4 Selected)\n\n- Light theme\n- Quaternary surface interactive selected state\n- White #FFFFFF"
       },
       "Background 5": {
-        "value": "#ebebeb",
+        "value": "{Grey.92}",
         "type": "color",
-        "description": "Background 5\n(BG 5)\n\n- Light theme\n- Quinary surface\n- Grey 92 #EBEBEB"
+        "description": "Background 5\n(BG 5)\n\n- Light theme\n- Quinary surface\n- {Grey.92}"
       },
       "Background 5 Hover": {
-        "value": "#f5f5f5",
+        "value": "{Grey.96}",
         "type": "color",
-        "description": "Background 5 Hover\n(BG 5 Hover)\n\n- Light theme\n- Quinary surface interactive hover state\n- Grey 96 #F5F5F5"
+        "description": "Background 5 Hover\n(BG 5 Hover)\n\n- Light theme\n- Quinary surface interactive hover state\n- {Grey.96}"
       },
       "Background 5 Pressed": {
-        "value": "#f0f0f0",
+        "value": "{Grey.94}",
         "type": "color",
-        "description": "Background 5 Pressed\n(BG 5 Pressed)\n\n- Light theme\n- Quinary surface interactive pressed state\n- Grey 94 #F0F0F0"
+        "description": "Background 5 Pressed\n(BG 5 Pressed)\n\n- Light theme\n- Quinary surface interactive pressed state\n- {Grey.94}"
       },
       "Background 5 Selected": {
-        "value": "#fafafa",
+        "value": "{Grey.98}",
         "type": "color",
-        "description": "Background 5 Selected\n(BG 5 Selected)\n\n- Light theme\n- Quinary surface interactive selected state\n- Grey 98 #FAFAFA"
+        "description": "Background 5 Selected\n(BG 5 Selected)\n\n- Light theme\n- Quinary surface interactive selected state\n- {Grey.98}"
       },
       "Background 6": {
-        "value": "#e6e6e6",
+        "value": "{Grey.90}",
         "type": "color",
-        "description": "Background 6\n(BG 6)\n\n- Light theme\n- On quinary surface\n- Grey 90 #E6E6E6"
+        "description": "Background 6\n(BG 6)\n\n- Light theme\n- On quinary surface\n- {Grey.90}"
       },
       "Background Inverted": {
-        "value": "#292929",
+        "value": "{Grey.16}",
         "type": "color",
-        "description": "Background Inverted\n(BG Inverted)\n\n- Light theme\n- Inverted background color\n- Grey 16 #292929"
+        "description": "Background Inverted\n(BG Inverted)\n\n- Light theme\n- Inverted background color\n- {Grey.16}"
       },
       "Background Alpha": {
-        "value": "#ffffff80",
+        "value": "{Grey.white}80",
         "type": "color",
         "description": "Background Alpha\nLight theme\nWhite 50%"
       },
       "Background Alpha 2": {
-        "value": "#ffffffcc",
+        "value": "{Grey.white}cc",
         "type": "color",
         "description": "Background Alpha 2\nLight theme\nWhite 80%"
       },
       "Background Static": {
-        "value": "#333333",
+        "value": "{Grey.20}",
         "type": "color",
-        "description": "Background Static\n(BG Static)\n\n- Light theme\n- Static background color\n- Grey 20 #333333"
+        "description": "Background Static\n(BG Static)\n\n- Light theme\n- Static background color\n- {Grey.20}"
       },
       "Subtle Background": {
-        "value": "#ffffff00",
+        "value": "{Grey.white}00",
         "type": "color",
-        "description": "Subtle Background\n(Subtle BG) \n\n- Light theme\n- White #FFFFFF 0%"
+        "description": "Subtle Background\n(Subtle BG) \n\n- Light theme\n- {Grey.white} 0%"
       },
       "Subtle Background Hover": {
-        "value": "#f5f5f5",
+        "value": "{Grey.96}",
         "type": "color",
-        "description": "Subtle Background\n(Subtle BG Hover) \n\n- Light theme\n- Grey 96 #F5F5F5"
+        "description": "Subtle Background\n(Subtle BG Hover) \n\n- Light theme\n- {Grey.96}"
       },
       "Subtle Background Pressed": {
-        "value": "#e0e0e0",
+        "value": "{Grey.88}",
         "type": "color",
-        "description": "Subtle Background Pressed\n(Subtle BG Pressed) \n\n- Light theme\n- Grey 88 #E0E0E0"
+        "description": "Subtle Background Pressed\n(Subtle BG Pressed) \n\n- Light theme\n- {Grey.88}"
       },
       "Subtle Background Selected": {
-        "value": "#ebebeb",
+        "value": "{Grey.92}",
         "type": "color",
-        "description": "Subtle Background Selected\n(Subtle BG Selected)\n\n- Light theme\n- Grey 92 #EBEBEB"
+        "description": "Subtle Background Selected\n(Subtle BG Selected)\n\n- Light theme\n- {Grey.92}"
       },
       "Subtle Background Light Alpha Hover": {
-        "value": "#ffffffb3",
+        "value": "{Grey.white}b3",
         "type": "color",
-        "description": "Subtle Background Light Alpha Hover\n(Subtle BG Light Alpha Hover)\n\n- Light theme\n- White #FFFFFF 70%"
+        "description": "Subtle Background Light Alpha Hover\n(Subtle BG Light Alpha Hover)\n\n- Light theme\n- {Grey.white} 70%"
       },
       "Subtle Background Light Alpha Pressed": {
-        "value": "#ffffff80",
+        "value": "{Grey.white}80",
         "type": "color",
-        "description": "Subtle Background Light Alpha Pressed\n(Subtle BG Light Alpha Pressed)\n\n- Light theme\n- White #FFFFFF 50%"
+        "description": "Subtle Background Light Alpha Pressed\n(Subtle BG Light Alpha Pressed)\n\n- Light theme\n- {Grey.white} 50%"
       },
       "Subtle Background Light Alpha Selected": {
-        "value": "#ffffff00",
+        "value": "{Grey.white}00",
         "type": "color",
-        "description": "Subtle Background Light Alpha Selected\n(Subtle BG Light Alpha Selected)\n\n- Light theme\n- White #FFFFFF 0%"
+        "description": "Subtle Background Light Alpha Selected\n(Subtle BG Light Alpha Selected)\n\n- Light theme\n- {Grey.white} 0%"
       },
       "Subtle Background Inverted": {
-        "value": "#00000000",
+        "value": "{Grey.black}00",
         "type": "color",
-        "description": "Subtle Background Inverted\n(Subtle BG Inverted)\n\n- Light theme\n- White #FFFFFF 0%"
+        "description": "Subtle Background Inverted\n(Subtle BG Inverted)\n\n- Light theme\n- {Grey.black} 0%"
       },
       "Subtle Background Inverted Hover": {
-        "value": "#0000001a",
+        "value": "{Grey.black}1a",
         "type": "color",
-        "description": "Subtle Background Inverted Hover\n(Subtle BG Inverted Hover)\n\n- Light theme\n- Black #000000 10%"
+        "description": "Subtle Background Inverted Hover\n(Subtle BG Inverted Hover)\n\n- Light theme\n- {Grey.black} 10%"
       },
       "Subtle Background Inverted Pressed": {
-        "value": "#0000004d",
+        "value": "{Grey.black}4d",
         "type": "color",
-        "description": "Subtle Background Inverted Pressed\n(Subtle BG Inverted Pressed)\n\n- Light theme\n- Black #000000 30%"
+        "description": "Subtle Background Inverted Pressed\n(Subtle BG Inverted Pressed)\n\n- Light theme\n- {Grey.black} 30%"
       },
       "Subtle Background Inverted Selected": {
-        "value": "#00000033",
+        "value": "{Grey.black}33",
         "type": "color",
-        "description": "Subtle Background Inverted Selected\n(Subtle BG Inverted Selected)\n\n- Light theme\n- Black #000000 20%"
+        "description": "Subtle Background Inverted Selected\n(Subtle BG Inverted Selected)\n\n- Light theme\n- {Grey.black} 20%"
       },
       "Transparent Background": {
-        "value": "#ffffff00",
+        "value": "{Grey.white}00",
         "type": "color",
-        "description": "Transparent Background\n(Transparent BG)\n\n- Light theme\n- White #FFFFFF 0%"
+        "description": "Transparent Background\n(Transparent BG)\n\n- Light theme\n- {Grey.white} 0%"
       },
       "Transparent Background Hover": {
-        "value": "#ffffff00",
+        "value": "{Grey.white}00",
         "type": "color",
-        "description": "Transparent Background Hover\n(Transparent BG Hover)\n\n- Light theme\n- White #FFFFFF 0%"
+        "description": "Transparent Background Hover\n(Transparent BG Hover)\n\n- Light theme\n- {Grey.white} 0%"
       },
       "Transparent Background Pressed": {
-        "value": "#ffffff00",
+        "value": "{Grey.white}00",
         "type": "color",
-        "description": "Transparent Background Pressed\n(Transparent BG Pressed)\n\n- Light theme\n- White #FFFFFF 0%"
+        "description": "Transparent Background Pressed\n(Transparent BG Pressed)\n\n- Light theme\n- {Grey.white} 0%"
       },
       "Transparent Background Selected": {
-        "value": "#ffffff00",
+        "value": "{Grey.white}00",
         "type": "color",
-        "description": "Transparent Background Selected\n(Transparent BG Selected)\n\n- Light theme\n- White #FFFFFF 0%"
-      },
-      "Background Disabled": {
-        "value": "#f0f0f0",
-        "type": "color",
-        "description": "Background Disabled\n(BG Disabled)\n\n- Light theme\n- Grey 94 #F0F0F0"
+        "description": "Transparent Background Selected\n(Transparent BG Selected)\n\n- Light theme\n- {Grey.white} 0%"
       },
       "Background Inverted Disabled": {
-        "value": "#ffffff1a",
+        "value": "{Grey.white}1a",
         "type": "color",
-        "description": "Background Inverted Disabled\n(BG Inverted Disabled)\n\n- Light theme\n- White #FFFFFF 10%"
-      },
-      "Stencil 1": {
-        "value": "#e6e6e6",
-        "type": "color",
-        "description": "Stencil 1\n(ST 1)\n\n- Light theme\n- Grey 90 #E6E6E6"
-      },
-      "Stencil 2": {
-        "value": "#fafafa",
-        "type": "color",
-        "description": "Stencil 2\n(ST 2)\n\n- Light theme\n- Grey 98 #FAFAFA"
-      },
-      "Background Overlay": {
-        "value": "#00000066",
-        "type": "color",
-        "description": "Background Overlay\n(BG Overlay)\n\n- Light theme\n- Black #000000 40%"
-      },
-      "Scrollbar Overlay": {
-        "value": "#00000080",
-        "type": "color",
-        "description": "Scrollbar Overlay\n\n- Light theme\n- Black #000000 50%"
+        "description": "Background Inverted Disabled\n(BG Inverted Disabled)\n\n- Light theme\n- {Grey.white} 10%"
       },
       "Error Background": {
         "value": "{Error.600}",
@@ -1397,44 +1372,44 @@
     },
     "Foreground": {
       "Foreground 1": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 1\n(FG 1)\n\n- Light theme\n- Primary foreground color\n- Grey 14 #242424"
+        "description": "Foreground 1\n(FG 1)\n\n- Light theme\n- Primary foreground color\n- {Grey.14}"
       },
       "Foreground 1 Hover": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 1 Hover\n(FG 1 Hover)\n\n- Light theme\n- Primary foreground color hover state\n- Grey 14 #242424"
+        "description": "Foreground 1 Hover\n(FG 1 Hover)\n\n- Light theme\n- Primary foreground color hover state\n- {Grey.14}"
       },
       "Foreground 1 Pressed": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 1 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Primary foreground color pressed state\n- Grey 14 #242424"
+        "description": "Foreground 1 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Primary foreground color pressed state\n- {Grey.14}"
       },
       "Foreground 1 Selected": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 1 Selected\n(FG 1 Selected)\n\n- Light theme\n- Primary foreground color selected state\n- Grey 14 #242424"
+        "description": "Foreground 1 Selected\n(FG 1 Selected)\n\n- Light theme\n- Primary foreground color selected state\n- {Grey.14}"
       },
       "Foreground 2": {
-        "value": "#424242",
+        "value": "{Grey.26}",
         "type": "color",
-        "description": "Foreground 2\n(FG 2)\n\n- Light theme\n- Secondary foreground color\n- Grey 26 #424242"
+        "description": "Foreground 2\n(FG 2)\n\n- Light theme\n- Secondary foreground color\n- {Grey.26}"
       },
       "Foreground 2 Hover": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 2 Hover\n(FG 2 Hover)\n\n- Light theme\n- Secondary foreground color hover state\n- Grey 14 #242424"
+        "description": "Foreground 2 Hover\n(FG 2 Hover)\n\n- Light theme\n- Secondary foreground color hover state\n- {Grey.14}"
       },
       "Foreground 2 Pressed": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 2 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Secondary foreground color pressed state\n- Grey 14 #242424"
+        "description": "Foreground 2 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Secondary foreground color pressed state\n- {Grey.14}"
       },
       "Foreground 2 Selected": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 2 Selected\n(FG 2 Selected)\n\n- Light theme\n- Secondary foreground color selected state\n- Grey 14 #242424"
+        "description": "Foreground 2 Selected\n(FG 2 Selected)\n\n- Light theme\n- Secondary foreground color selected state\n- {Grey.14}"
       },
       "Foreground 2 Brand Hover": {
         "value": "{Primary.600}",
@@ -1452,24 +1427,24 @@
         "description": "Foreground 2 Brand Selected\n(FG 2 Brand Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
       },
       "Foreground 3": {
-        "value": "#616161",
+        "value": "{Grey.38}",
         "type": "color",
-        "description": "Foreground 3\n(FG 3)\n\n- Light theme\n- Tertiary foreground color\n- Grey 38 #616161"
+        "description": "Foreground 3\n(FG 3)\n\n- Light theme\n- Tertiary foreground color\n- {Grey.38}"
       },
       "Foreground 3 Hover": {
-        "value": "#424242",
+        "value": "{Grey.26}",
         "type": "color",
-        "description": "Foreground 3 Hover\n(FG 3 Hover)\n\n- Light theme\n- Tertiary foreground color hover state\n- Grey 26 #424242"
+        "description": "Foreground 3 Hover\n(FG 3 Hover)\n\n- Light theme\n- Tertiary foreground color hover state\n- {Grey.26}"
       },
       "Foreground 3 Pressed": {
-        "value": "#424242",
+        "value": "{Grey.26}",
         "type": "color",
-        "description": "Foreground 3 Pressed\n(FG 3 Pressed)\n\n- Light theme\n- Tertiary foreground color pressed state\n- Grey 26 #424242"
+        "description": "Foreground 3 Pressed\n(FG 3 Pressed)\n\n- Light theme\n- Tertiary foreground color pressed state\n- {Grey.26}"
       },
       "Foreground 3 Selected": {
-        "value": "#424242",
+        "value": "{Grey.26}",
         "type": "color",
-        "description": "Foreground 3 Selected\n(FG 3 Selected)\n\n- Light theme\n- Tertiary foreground color selected state\n- Grey 26 #424242"
+        "description": "Foreground 3 Selected\n(FG 3 Selected)\n\n- Light theme\n- Tertiary foreground color selected state\n- {Grey.26}"
       },
       "Foreground 3 Brand Hover": {
         "value": "{Primary.600}",
@@ -1487,99 +1462,99 @@
         "description": "Foreground 3 Brand Selected\n(FG 3 Brand Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
       },
       "Foreground 4": {
-        "value": "#707070",
+        "value": "{Grey.44}",
         "type": "color",
-        "description": "Foreground 4\n(FG 4)\n\n- Light theme\n- Quaternary foreground color.\n- Grey 44 #707070"
+        "description": "Foreground 4\n(FG 4)\n\n- Light theme\n- Quaternary foreground color.\n- {Grey.44}"
       },
       "Foreground Disabled": {
-        "value": "#bdbdbd",
+        "value": "{Grey.74}",
         "type": "color",
-        "description": "Foreground Disabled\n(FG Disabled)\n\n- Light theme\n- Disabled foreground\n- Grey 74 #BDBDBD"
+        "description": "Foreground Disabled\n(FG Disabled)\n\n- Light theme\n- Disabled foreground\n- {Grey.74}"
       },
       "Foreground Inverted Disabled": {
-        "value": "#ffffff66",
+        "value": "{Grey.white}66",
         "type": "color",
-        "description": "Foreground Inverted Disabled\n(FG Inverted Disabled)\n\n- Light theme\n- White #FFFFFF 40%"
+        "description": "Foreground Inverted Disabled\n(FG Inverted Disabled)\n\n- Light theme\n- {Grey.white} 40%"
       },
       "Foreground 2 Link": {
-        "value": "#424242",
+        "value": "{Grey.26}",
         "type": "color",
-        "description": "Foreground 2 Link\n(FG 2 Link)\n\n- Light theme\n- Grey 26 #424242"
+        "description": "Foreground 2 Link\n(FG 2 Link)\n\n- Light theme\n- {Grey.26}"
       },
       "Foreground 2 Link Hover": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 2 Link Hover\n(FG 2 Link Hover)\n\n- Light theme\n- Grey 14 #242424"
+        "description": "Foreground 2 Link Hover\n(FG 2 Link Hover)\n\n- Light theme\n- {Grey.14}"
       },
       "Foreground 2 Link Pressed": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 2 Link Pressed\n(FG 2 Link Pressed)\n\n- Light theme\n- Grey 14 #242424"
+        "description": "Foreground 2 Link Pressed\n(FG 2 Link Pressed)\n\n- Light theme\n- {Grey.14}"
       },
       "Foreground 2 Link Selected": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 2 Link Selected\n(FG 2 Link Selected)\n\n- Light theme\n- Grey 14 #242424"
+        "description": "Foreground 2 Link Selected\n(FG 2 Link Selected)\n\n- Light theme\n- {Grey.14}"
       },
       "Foreground 1 Static": {
-        "value": "#242424",
+        "value": "{Grey.14}",
         "type": "color",
-        "description": "Foreground 1 Static\n(FG 1 Static)\n\n- Light theme\n- Static foreground color on light and dark theme\n- Grey 14 #242424"
+        "description": "Foreground 1 Static\n(FG 1 Static)\n\n- Light theme\n- Static foreground color on light and dark theme\n- {Grey.14}"
       },
       "Foreground Static Inverted": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Static Inverted\n(FG Static Inverted)\n\n- Light theme\n- Inverted static foreground\n- White #FFFFFF"
+        "description": "Foreground Static Inverted\n(FG Static Inverted)\n\n- Light theme\n- Inverted static foreground\n- {Grey.white}"
       },
       "Foreground Inverted": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted\n(FG Inverted)\n\n- Light theme\n- Inverted foreground used on brand backgrounds\n- White #FFFFFF"
+        "description": "Foreground Inverted\n(FG Inverted)\n\n- Light theme\n- Inverted foreground used on brand backgrounds\n- {Grey.white}"
       },
       "Foreground Inverted 2": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted 2\n(FG Inverted 2)\n\n- Light theme\n- Inverted foreground used on neutral backgrounds\n- White #FFFFFF"
+        "description": "Foreground Inverted 2\n(FG Inverted 2)\n\n- Light theme\n- Inverted foreground used on neutral backgrounds\n- {Grey.white}"
       },
       "Foreground Inverted Hover": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted Hover\n(FG Inverted Hover)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Foreground Inverted Hover\n(FG Inverted Hover)\n\n- Light theme\n- {Grey.white}"
       },
       "Foreground Inverted Pressed": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted Pressed\n(FG Inverted Pressed)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Foreground Inverted Pressed\n(FG Inverted Pressed)\n\n- Light theme\n- {Grey.white}"
       },
       "Foreground Inverted Selected": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted Selected\n(FG Inverted Selected)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Foreground Inverted Selected\n(FG Inverted Selected)\n\n- Light theme\n- {Grey.white}"
       },
       "Foreground On Brand": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground on Brand\n(FG on Brand)\n\n- Light theme\n- Foreground on brand background\n- White #FFFFFF"
+        "description": "Foreground on Brand\n(FG on Brand)\n\n- Light theme\n- Foreground on brand background\n- {Grey.white}"
       },
       "Foreground Inverted Link": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted Link\n(FG Inverted Link)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Foreground Inverted Link\n(FG Inverted Link)\n\n- Light theme\n- {Grey.white}"
       },
       "Foreground Inverted Link Hover": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted Link Hover\n(FG Inverted Link Hover)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Foreground Inverted Link Hover\n(FG Inverted Link Hover)\n\n- Light theme\n- {Grey.white}"
       },
       "Foreground Inverted Link Pressed": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted Link Pressed\n(FG Inverted Link Pressed)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Foreground Inverted Link Pressed\n(FG Inverted Link Pressed)\n\n- Light theme\n- {Grey.white}"
       },
       "Foreground Inverted Link Selected": {
-        "value": "#ffffff",
+        "value": "{Grey.white}",
         "type": "color",
-        "description": "Foreground Inverted Link Selected\n(FG Inverted Link Selected)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Foreground Inverted Link Selected\n(FG Inverted Link Selected)\n\n- Light theme\n- {Grey.white}"
       },
       "Brand Foreground 1": {
         "value": "{Primary.600}",
@@ -1674,84 +1649,85 @@
     },
     "Stroke": {
       "Stroke 1": {
-        "value": "#d1d1d1",
+        "value": "{Grey.82}",
         "type": "color",
-        "description": "Stroke 1\n(SK 1)\n\n- Light theme\n- Grey 82 #D1D1D1"
+        "description": "Stroke 1\n(SK 1)\n\n- Light theme\n- {Grey.82}"
       },
       "Stroke 1 Hover": {
-        "value": "#c7c7c7",
+        "value": "{Grey.78}",
         "type": "color",
-        "description": "Stroke 1 Hover\n(SK 1 Hover)\n\n- Light theme\n- Grey 78 #C7C7C7"
+        "description": "Stroke 1 Hover\n(SK 1 Hover)\n\n- Light theme\n- {Grey.78}"
       },
       "Stroke 1 Pressed": {
-        "value": "#b3b3b3",
+        "value": "{Grey.70}",
         "type": "color",
-        "description": "Stroke 1 Pressed\n(SK 1 Pressed)\n\n- Light theme\n- Grey 70 #B3B3B3"
+        "description": "Stroke 1 Pressed\n(SK 1 Pressed)\n\n- Light theme\n- {Grey.70}"
       },
       "Stroke 1 Selected": {
-        "value": "#bdbdbd",
+        "value": "{Grey.74}",
         "type": "color",
-        "description": "Stroke 1 Selected\n(SK 1 Selected)\n\n- Light theme\n- Grey 74 #BDBDBD"
+        "description": "Stroke 1 Selected\n(SK 1 Selected)\n\n- Light theme\n- {Grey.74}"
       },
       "Stroke 2": {
-        "value": "#e0e0e0",
+        "value": "{Grey.88}",
         "type": "color",
-        "description": "Stroke 2\n(SK 2)\n\n- Light theme\n- Grey 88 #E0E0E0"
+        "description": "Stroke 2\n(SK 2)\n\n- Light theme\n- {Grey.88}"
       },
       "Stroke 3": {
-        "value": "#f0f0f0",
+        "value": "{Grey.94}",
         "type": "color",
-        "description": "Stroke 3\n(SK 3)\n\n- Light theme\n- Grey 94 #F0F0F0"
+        "description": "Stroke 3\n(SK 3)\n\n- Light theme\n- {Grey.94}"
       },
       "Stroke Alpha": {
-        "value": "#0000000d",
+        "value": "{Black}0d",
         "type": "color",
-        "description": "Neutral Stroke Alpha\nBlack 5%"
+        "description": "Neutral Stroke Alpha\nBlack 5%",
+        "$extensions": {}
       },
       "Stroke Subtle": {
-        "value": "#e0e0e0",
+        "value": "{Grey.88}",
         "type": "color",
-        "description": "Neutral Stroke Subtle\nLight theme\nGrey 88 #E0E0E0"
+        "description": "Neutral Stroke Subtle\nLight theme\n{Grey.88}"
       },
       "Stroke on Brand": {
-        "value": "#ffffff",
+        "value": "{White}",
         "type": "color",
-        "description": "Stroke on Brand\n(SK on Brand)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Stroke on Brand\n(SK on Brand)\n\n- Light theme\n- {White}"
       },
       "Stroke on Brand 2": {
-        "value": "#ffffff",
+        "value": "{White}",
         "type": "color",
-        "description": "Stroke on Brand 2\n(SK on Brand 2)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Stroke on Brand 2\n(SK on Brand 2)\n\n- Light theme\n- {White}"
       },
       "Stroke on Brand 2 Hover": {
-        "value": "#ffffff",
+        "value": "{White}",
         "type": "color",
-        "description": "Stroke on Brand 2 Hover\n(SK on Brand 2 Hover)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Stroke on Brand 2 Hover\n(SK on Brand 2 Hover)\n\n- Light theme\n- {White}"
       },
       "Stroke on Brand 2 Pressed": {
-        "value": "#ffffff",
+        "value": "{White}",
         "type": "color",
-        "description": "Stroke on Brand 2 Pressed\n(SK on Brand 2 Pressed)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Stroke on Brand 2 Pressed\n(SK on Brand 2 Pressed)\n\n- Light theme\n- {White}"
       },
       "Stroke on Brand 2 Selected": {
-        "value": "#ffffff",
+        "value": "{White}",
         "type": "color",
-        "description": "Stroke on Brand 2 Selected\n(SK on Brand 2 Selected)\n\n- Light theme\n- White #FFFFFF"
+        "description": "Stroke on Brand 2 Selected\n(SK on Brand 2 Selected)\n\n- Light theme\n- {White}"
       },
       "Stroke Accessible": {
-        "value": "#616161",
+        "value": "{Grey.38}",
         "type": "color",
-        "description": "Stroke Accessible\n(SK Accessible)\n\n- Light theme\n- Grey 38 #616161"
+        "description": "Stroke Accessible\n(SK Accessible)\n\n- Light theme\n- {Grey.38}"
       },
       "Stroke Accessible Hover": {
-        "value": "#575757",
+        "value": "{Grey.34}",
         "type": "color",
-        "description": "Stroke Accessible Hover\n(SK Accessible Hover)\n\n- Light theme\n- Grey 34 #575757"
+        "description": "Stroke Accessible Hover\n(SK Accessible Hover)\n\n- Light theme\n- {Grey.34}"
       },
       "Stroke Accessible Pressed": {
-        "value": "#4d4d4d",
+        "value": "{Grey.30}",
         "type": "color",
-        "description": "Stroke Accessible Pressed\n(SK Accessible Pressed)\n\n- Light theme\n- Grey 30 #4D4D4D"
+        "description": "Stroke Accessible Pressed\n(SK Accessible Pressed)\n\n- Light theme\n- {Grey.30}"
       },
       "Stroke Accessible Selected": {
         "value": "{Primary.600}",
@@ -1759,74 +1735,44 @@
         "description": "Stroke Accessible Selected\n(SK Accessible Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
       },
       "Stroke Disabled": {
-        "value": "#e0e0e0",
+        "value": "{Grey.88}",
         "type": "color",
-        "description": "Stroke Disabled\n(SK Disabled)\n\n- Light theme\n- Grey 88 #E0E0E0"
+        "description": "Stroke Disabled\n(SK Disabled)\n\n- Light theme\n- {Grey.88}"
       },
       "Stroke Inverted Disabled": {
-        "value": "#ffffff66",
+        "value": "{White}66",
         "type": "color",
-        "description": "Stroke Inverted Disabled\n(SK Inverted Disabled)\n\n- Light theme\n- White #FFFFFF 40%"
+        "description": "Stroke Inverted Disabled\n(SK Inverted Disabled)\n\n- Light theme\n- {White.40%}"
       },
       "Transparent Stroke": {
-        "value": "#ffffff00",
+        "value": "{White}00",
         "type": "color",
         "description": "Transparent Stroke\n(Transparent SK)\n\n- Light theme\n- Alpha 0%"
       },
       "Transparent Stroke Interactive": {
-        "value": "#ffffff00",
+        "value": "{White}00",
         "type": "color",
-        "description": "Transparent Stroke Interactive\n(Transparent SK Interactive)\n\n\n- Light theme\n- Alpha 0%"
+        "description": "Transparent Stroke Interactive\n(Transparent SK Interactive)\n\n- Light theme\n- Alpha 0%"
       },
       "Transparent Stroke Disabled": {
-        "value": "#ffffff00",
+        "value": "{White}00",
         "type": "color",
         "description": "Transparent Stroke Disabled\n(Transparent SK Disabled)\n\n- Light theme\n- Alpha 0%"
       },
       "Stroke Focus 1": {
-        "value": "#ffffff",
+        "value": "{White}",
         "type": "color",
-        "description": "Stroke Focus 1\n(SK Focus 1)\n\n- Light theme\n- Inner focus stroke\n- White #FFFFFF"
+        "description": "Stroke Focus 1\n(SK Focus 1)\n\n- Light theme\n- {White}"
       },
       "Stroke Focus 2": {
-        "value": "#000000",
+        "value": "{Black}",
         "type": "color",
-        "description": "Stroke Focus 2\n(SK Focus 2)\n\n- Light theme\n- Outer focus stroke\n- Black #000000"
+        "description": "Stroke Focus 2\n(SK Focus 2)\n\n- Light theme\n- {Black}"
       },
       "Brand Stroke 1": {
         "value": "{Primary.600}",
         "type": "color",
         "description": "Brand Stroke 1\n(BSK 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
-      },
-      "Brand Stroke 2": {
-        "value": "#b4d6fa",
-        "type": "color",
-        "description": "Brand Stroke 2\n(BSK 2)\n\n- Light theme\n- Comm 140 #B4D6FA"
-      },
-      "Brand Stroke 2 Hover": {
-        "value": "#77b7f7",
-        "type": "color",
-        "description": "Brand Stroke 2 Hover\n\nLight theme\nBrand tint stroke hover\nComm 120 #77B7F7"
-      },
-      "Brand Stroke 2 Pressed": {
-        "value": "{Primary.600}",
-        "type": "color",
-        "description": "Brand Stroke 2 Pressed\n\nLight theme\nBrand tint stroke pressed\nComm 80 {Primary.600}"
-      },
-      "Compound Brand Stroke 1": {
-        "value": "{Primary.600}",
-        "type": "color",
-        "description": "Compound Brand Stroke 1\n(Compound BSK 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
-      },
-      "Compound Brand Stroke 1 Hover": {
-        "value": "{Primary.700}",
-        "type": "color",
-        "description": "Compound Brand Stroke 1 Hover\n(Compound BSK 1 Hover) \n\n- Light theme\n- Comm 70 {Primary.700}"
-      },
-      "Compound Brand Stroke 1 Pressed": {
-        "value": "{Primary.800}",
-        "type": "color",
-        "description": "Compound Brand Stroke 1 Pressed\n(Compound BSK 1 Pressed)\n\n- Light theme\n- Comm 60 {Primary.800}"
       }
     },
     "Shared": {
