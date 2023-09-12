@@ -1868,6 +1868,847 @@
       }
     }
   },
+  "Theme/Dark": {
+    "Background": {
+      "Background 1": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Background 1\n(BG 1)\n\n- Light theme\n- Primary surface\n- White #FFFFFF"
+      },
+      "Background 1 Hover": {
+        "value": "{Grey.96}",
+        "type": "color",
+        "description": "Background 1 Hover\n(BG 1 Hover)\n\n- Light theme\n- Primary surface interactive hover state\n- {Grey.96}"
+      },
+      "Background 1 Pressed": {
+        "value": "{Grey.88}",
+        "type": "color",
+        "description": "Background 1 Pressed\n(BG 1 Pressed)\n\n- Light theme\n- Primary surface interactive pressed state\n- {Grey.88}"
+      },
+      "Background 1 Selected": {
+        "value": "{Grey.92}",
+        "type": "color",
+        "description": "Background 1 Selected\n(BG 1 Selected)\n\n- Light theme\n- Primary surface interactive selected state\n- {Grey.92}"
+      },
+      "Background 2": {
+        "value": "{Grey.98}",
+        "type": "color",
+        "description": "Background 2\n(BG 2)\n\n- Light theme\n- Secondary surface\n- {Grey.98}"
+      },
+      "Background 2 Hover": {
+        "value": "{Grey.94}",
+        "type": "color",
+        "description": "Background 2 Hover\n(BG 2 Hover) \n\n- Light theme\n- Secondary surface interactive hover state\n- {Grey.94}"
+      },
+      "Background 2 Pressed": {
+        "value": "{Grey.86}",
+        "type": "color",
+        "description": "Background 2 Pressed\n(BG 2 Pressed)\n\n- Light theme\n- Secondary surface interactive pressed state\n- {Grey.86}"
+      },
+      "Background 2 Selected": {
+        "value": "{Grey.90}",
+        "type": "color",
+        "description": "Background 2\n(BG 2 Selected)\n\n- Light theme\n- Secondary surface interactive selected state\n- {Grey.90}"
+      },
+      "Background 3": {
+        "value": "{Grey.96}",
+        "type": "color",
+        "description": "Background 3\n(BG 3)\n\n- Light theme\n- Tertiary surface\n- {Grey.96}"
+      },
+      "Background 3 Hover": {
+        "value": "{Grey.92}",
+        "type": "color",
+        "description": "Background 3 Hover\n(BG 3 Hover)\n\n- Light theme\n- Tertiary surface interactive hover state\n- {Grey.92}"
+      },
+      "Background 3 Pressed": {
+        "value": "{Grey.84}",
+        "type": "color",
+        "description": "Background 3 Pressed\n(BG 3 Pressed)\n\n- Light theme\n- Tertiary surface interactive pressed state\n- {Grey.84}"
+      },
+      "Background 3 Selected": {
+        "value": "{Grey.88}",
+        "type": "color",
+        "description": "Background 3 Selected\n(BG 3 Selected)\n\n- Light theme\n- Tertiary surface interactive selected state\n- {Grey.88}"
+      },
+      "Background 4": {
+        "value": "{Grey.94}",
+        "type": "color",
+        "description": "Background 4\n(BG 4)\n\n- Light theme\n- Quaternary surface\n- {Grey.94}"
+      },
+      "Background 4 Hover": {
+        "value": "{Grey.98}",
+        "type": "color",
+        "description": "Background 4 Hover\n(BG 4 Hover)\n\n- Light theme\n- Quaternary surface interactive hover state\n- {Grey.98}"
+      },
+      "Background 4 Pressed": {
+        "value": "{Grey.96}",
+        "type": "color",
+        "description": "Background 4 Pressed\n(BG 4 Pressed)\n\n- Light theme\n- Quaternary surface interactive pressed state\n- {Grey.96}"
+      },
+      "Background 4 Selected": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Background 4 Selected\n(BG 4 Selected)\n\n- Light theme\n- Quaternary surface interactive selected state\n- White #FFFFFF"
+      },
+      "Background 5": {
+        "value": "{Grey.92}",
+        "type": "color",
+        "description": "Background 5\n(BG 5)\n\n- Light theme\n- Quinary surface\n- {Grey.92}"
+      },
+      "Background 5 Hover": {
+        "value": "{Grey.96}",
+        "type": "color",
+        "description": "Background 5 Hover\n(BG 5 Hover)\n\n- Light theme\n- Quinary surface interactive hover state\n- {Grey.96}"
+      },
+      "Background 5 Pressed": {
+        "value": "{Grey.94}",
+        "type": "color",
+        "description": "Background 5 Pressed\n(BG 5 Pressed)\n\n- Light theme\n- Quinary surface interactive pressed state\n- {Grey.94}"
+      },
+      "Background 5 Selected": {
+        "value": "{Grey.98}",
+        "type": "color",
+        "description": "Background 5 Selected\n(BG 5 Selected)\n\n- Light theme\n- Quinary surface interactive selected state\n- {Grey.98}"
+      },
+      "Background 6": {
+        "value": "{Grey.90}",
+        "type": "color",
+        "description": "Background 6\n(BG 6)\n\n- Light theme\n- On quinary surface\n- {Grey.90}"
+      },
+      "Background Inverted": {
+        "value": "{Grey.16}",
+        "type": "color",
+        "description": "Background Inverted\n(BG Inverted)\n\n- Light theme\n- Inverted background color\n- {Grey.16}"
+      },
+      "Background Alpha": {
+        "value": "{Grey.white}80",
+        "type": "color",
+        "description": "Background Alpha\nLight theme\nWhite 50%"
+      },
+      "Background Alpha 2": {
+        "value": "{Grey.white}cc",
+        "type": "color",
+        "description": "Background Alpha 2\nLight theme\nWhite 80%"
+      },
+      "Background Static": {
+        "value": "{Grey.20}",
+        "type": "color",
+        "description": "Background Static\n(BG Static)\n\n- Light theme\n- Static background color\n- {Grey.20}"
+      },
+      "Subtle Background": {
+        "value": "{Grey.white}00",
+        "type": "color",
+        "description": "Subtle Background\n(Subtle BG) \n\n- Light theme\n- {Grey.white} 0%"
+      },
+      "Subtle Background Hover": {
+        "value": "{Grey.96}",
+        "type": "color",
+        "description": "Subtle Background\n(Subtle BG Hover) \n\n- Light theme\n- {Grey.96}"
+      },
+      "Subtle Background Pressed": {
+        "value": "{Grey.88}",
+        "type": "color",
+        "description": "Subtle Background Pressed\n(Subtle BG Pressed) \n\n- Light theme\n- {Grey.88}"
+      },
+      "Subtle Background Selected": {
+        "value": "{Grey.92}",
+        "type": "color",
+        "description": "Subtle Background Selected\n(Subtle BG Selected)\n\n- Light theme\n- {Grey.92}"
+      },
+      "Subtle Background Light Alpha Hover": {
+        "value": "{Grey.white}b3",
+        "type": "color",
+        "description": "Subtle Background Light Alpha Hover\n(Subtle BG Light Alpha Hover)\n\n- Light theme\n- {Grey.white} 70%"
+      },
+      "Subtle Background Light Alpha Pressed": {
+        "value": "{Grey.white}80",
+        "type": "color",
+        "description": "Subtle Background Light Alpha Pressed\n(Subtle BG Light Alpha Pressed)\n\n- Light theme\n- {Grey.white} 50%"
+      },
+      "Subtle Background Light Alpha Selected": {
+        "value": "{Grey.white}00",
+        "type": "color",
+        "description": "Subtle Background Light Alpha Selected\n(Subtle BG Light Alpha Selected)\n\n- Light theme\n- {Grey.white} 0%"
+      },
+      "Subtle Background Inverted": {
+        "value": "{Grey.black}00",
+        "type": "color",
+        "description": "Subtle Background Inverted\n(Subtle BG Inverted)\n\n- Light theme\n- {Grey.black} 0%"
+      },
+      "Subtle Background Inverted Hover": {
+        "value": "{Grey.black}1a",
+        "type": "color",
+        "description": "Subtle Background Inverted Hover\n(Subtle BG Inverted Hover)\n\n- Light theme\n- {Grey.black} 10%"
+      },
+      "Subtle Background Inverted Pressed": {
+        "value": "{Grey.black}4d",
+        "type": "color",
+        "description": "Subtle Background Inverted Pressed\n(Subtle BG Inverted Pressed)\n\n- Light theme\n- {Grey.black} 30%"
+      },
+      "Subtle Background Inverted Selected": {
+        "value": "{Grey.black}33",
+        "type": "color",
+        "description": "Subtle Background Inverted Selected\n(Subtle BG Inverted Selected)\n\n- Light theme\n- {Grey.black} 20%"
+      },
+      "Transparent Background": {
+        "value": "{Grey.white}00",
+        "type": "color",
+        "description": "Transparent Background\n(Transparent BG)\n\n- Light theme\n- {Grey.white} 0%"
+      },
+      "Transparent Background Hover": {
+        "value": "{Grey.white}00",
+        "type": "color",
+        "description": "Transparent Background Hover\n(Transparent BG Hover)\n\n- Light theme\n- {Grey.white} 0%"
+      },
+      "Transparent Background Pressed": {
+        "value": "{Grey.white}00",
+        "type": "color",
+        "description": "Transparent Background Pressed\n(Transparent BG Pressed)\n\n- Light theme\n- {Grey.white} 0%"
+      },
+      "Transparent Background Selected": {
+        "value": "{Grey.white}00",
+        "type": "color",
+        "description": "Transparent Background Selected\n(Transparent BG Selected)\n\n- Light theme\n- {Grey.white} 0%"
+      },
+      "Background Inverted Disabled": {
+        "value": "{Grey.white}1a",
+        "type": "color",
+        "description": "Background Inverted Disabled\n(BG Inverted Disabled)\n\n- Light theme\n- {Grey.white} 10%"
+      },
+      "Error Background": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Error Background Hover": {
+        "value": "{Error.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Error Background Pressed": {
+        "value": "{Error.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Error Background Selected": {
+        "value": "{Error.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Success Background": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Success Background Hover": {
+        "value": "{Success.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Success Background Pressed": {
+        "value": "{Success.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Success Background Selected": {
+        "value": "{Success.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Warning Background": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Warning Background Hover": {
+        "value": "{Warning.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Warning Background Pressed": {
+        "value": "{Warning.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Warning Background Selected": {
+        "value": "{Warning.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Background": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Background\n(BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Background Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Background Hover\n(BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Background Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Background Pressed\n(BBG Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Brand Background Selected": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand Background Selected\n(BBG Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Compound Brand Background": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Compound Brand Background\n(Compound BBG)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Compound Brand Background Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Compound Brand Background Hover\n(Compound BBG Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Compound Brand Background Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Compound Brand Background Pressed\n(Compound BBG Pressed)\n\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Background Static": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Background Static\n(BBG Static)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Background 2": {
+        "value": "{Primary.50}",
+        "type": "color",
+        "description": "Brand Background 2\n(BBG 2)\n\n- Light theme\n- Comm 160 #EBF3FC"
+      },
+      "Brand Background 2 Hover": {
+        "value": "{Primary.100}",
+        "type": "color",
+        "description": "Brand BG 2 Hover\n\nTint background hover\nLight theme\nComm 150 (#CFE4FA)"
+      },
+      "Brand Background 2 Pressed": {
+        "value": "{Primary.200}",
+        "type": "color",
+        "description": "Brand BG 2 Pressed\n\nTint background pressed\nLight theme\nComm 130 (#96C6FA)"
+      },
+      "Brand Background Inverted": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Brand Background Inverted\n(BBG Inverted)\n\n- Light theme\n- White #FFFFFF"
+      },
+      "Brand Background Inverted Hover": {
+        "value": "{Primary.100}",
+        "type": "color",
+        "description": "Brand Background Inverted Hover\n(BBG Inverted Hover)\n\n- Light theme\n- Comm 160 #EBF3FC"
+      },
+      "Brand Background Inverted Pressed": {
+        "value": "{Primary.200}",
+        "type": "color",
+        "description": "Brand Background Inverted Pressed\n(BBG Inverted Pressed)\n\n- Light theme\n- Comm 140 #B4D6FA"
+      },
+      "Brand Background Inverted Selected": {
+        "value": "{Primary.300}",
+        "type": "color",
+        "description": "Brand Background Inverted Selected\n(BBG Inverted Selected)\n\n- Light theme\n- Comm 150 #CFE4FA"
+      }
+    },
+    "Foreground": {
+      "Foreground 1": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 1\n(FG 1)\n\n- Light theme\n- Primary foreground color\n- {Grey.14}"
+      },
+      "Foreground 1 Hover": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 1 Hover\n(FG 1 Hover)\n\n- Light theme\n- Primary foreground color hover state\n- {Grey.14}"
+      },
+      "Foreground 1 Pressed": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 1 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Primary foreground color pressed state\n- {Grey.14}"
+      },
+      "Foreground 1 Selected": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 1 Selected\n(FG 1 Selected)\n\n- Light theme\n- Primary foreground color selected state\n- {Grey.14}"
+      },
+      "Foreground 2": {
+        "value": "{Grey.26}",
+        "type": "color",
+        "description": "Foreground 2\n(FG 2)\n\n- Light theme\n- Secondary foreground color\n- {Grey.26}"
+      },
+      "Foreground 2 Hover": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 2 Hover\n(FG 2 Hover)\n\n- Light theme\n- Secondary foreground color hover state\n- {Grey.14}"
+      },
+      "Foreground 2 Pressed": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 2 Pressed\n(FG 1 Pressed)\n\n- Light theme\n- Secondary foreground color pressed state\n- {Grey.14}"
+      },
+      "Foreground 2 Selected": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 2 Selected\n(FG 2 Selected)\n\n- Light theme\n- Secondary foreground color selected state\n- {Grey.14}"
+      },
+      "Foreground 2 Brand Hover": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Foreground 2 Brand Hover\n(FG 2 Brand Hover)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 2 Brand Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Foreground 2 Brand Pressed\n(FG 2 Brand Pressed)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Foreground 2 Brand Selected": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Foreground 2 Brand Selected\n(FG 2 Brand Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 3": {
+        "value": "{Grey.38}",
+        "type": "color",
+        "description": "Foreground 3\n(FG 3)\n\n- Light theme\n- Tertiary foreground color\n- {Grey.38}"
+      },
+      "Foreground 3 Hover": {
+        "value": "{Grey.26}",
+        "type": "color",
+        "description": "Foreground 3 Hover\n(FG 3 Hover)\n\n- Light theme\n- Tertiary foreground color hover state\n- {Grey.26}"
+      },
+      "Foreground 3 Pressed": {
+        "value": "{Grey.26}",
+        "type": "color",
+        "description": "Foreground 3 Pressed\n(FG 3 Pressed)\n\n- Light theme\n- Tertiary foreground color pressed state\n- {Grey.26}"
+      },
+      "Foreground 3 Selected": {
+        "value": "{Grey.26}",
+        "type": "color",
+        "description": "Foreground 3 Selected\n(FG 3 Selected)\n\n- Light theme\n- Tertiary foreground color selected state\n- {Grey.26}"
+      },
+      "Foreground 3 Brand Hover": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Foreground 3 Brand Hover\n(FG 3 Brand Hover)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 3 Brand Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Foreground 3 Brand Pressed\n(FG 3 Brand Pressed)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Foreground 3 Brand Selected": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Foreground 3 Brand Selected\n(FG 3 Brand Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Foreground 4": {
+        "value": "{Grey.44}",
+        "type": "color",
+        "description": "Foreground 4\n(FG 4)\n\n- Light theme\n- Quaternary foreground color.\n- {Grey.44}"
+      },
+      "Foreground Disabled": {
+        "value": "{Grey.74}",
+        "type": "color",
+        "description": "Foreground Disabled\n(FG Disabled)\n\n- Light theme\n- Disabled foreground\n- {Grey.74}"
+      },
+      "Foreground Inverted Disabled": {
+        "value": "{Grey.white}66",
+        "type": "color",
+        "description": "Foreground Inverted Disabled\n(FG Inverted Disabled)\n\n- Light theme\n- {Grey.white} 40%"
+      },
+      "Foreground 2 Link": {
+        "value": "{Grey.26}",
+        "type": "color",
+        "description": "Foreground 2 Link\n(FG 2 Link)\n\n- Light theme\n- {Grey.26}"
+      },
+      "Foreground 2 Link Hover": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 2 Link Hover\n(FG 2 Link Hover)\n\n- Light theme\n- {Grey.14}"
+      },
+      "Foreground 2 Link Pressed": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 2 Link Pressed\n(FG 2 Link Pressed)\n\n- Light theme\n- {Grey.14}"
+      },
+      "Foreground 2 Link Selected": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 2 Link Selected\n(FG 2 Link Selected)\n\n- Light theme\n- {Grey.14}"
+      },
+      "Foreground 1 Static": {
+        "value": "{Grey.14}",
+        "type": "color",
+        "description": "Foreground 1 Static\n(FG 1 Static)\n\n- Light theme\n- Static foreground color on light and dark theme\n- {Grey.14}"
+      },
+      "Foreground Static Inverted": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Static Inverted\n(FG Static Inverted)\n\n- Light theme\n- Inverted static foreground\n- {Grey.white}"
+      },
+      "Foreground Inverted": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted\n(FG Inverted)\n\n- Light theme\n- Inverted foreground used on brand backgrounds\n- {Grey.white}"
+      },
+      "Foreground Inverted 2": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted 2\n(FG Inverted 2)\n\n- Light theme\n- Inverted foreground used on neutral backgrounds\n- {Grey.white}"
+      },
+      "Foreground Inverted Hover": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted Hover\n(FG Inverted Hover)\n\n- Light theme\n- {Grey.white}"
+      },
+      "Foreground Inverted Pressed": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted Pressed\n(FG Inverted Pressed)\n\n- Light theme\n- {Grey.white}"
+      },
+      "Foreground Inverted Selected": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted Selected\n(FG Inverted Selected)\n\n- Light theme\n- {Grey.white}"
+      },
+      "Foreground On Brand": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground on Brand\n(FG on Brand)\n\n- Light theme\n- Foreground on brand background\n- {Grey.white}"
+      },
+      "Foreground Inverted Link": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted Link\n(FG Inverted Link)\n\n- Light theme\n- {Grey.white}"
+      },
+      "Foreground Inverted Link Hover": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted Link Hover\n(FG Inverted Link Hover)\n\n- Light theme\n- {Grey.white}"
+      },
+      "Foreground Inverted Link Pressed": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted Link Pressed\n(FG Inverted Link Pressed)\n\n- Light theme\n- {Grey.white}"
+      },
+      "Foreground Inverted Link Selected": {
+        "value": "{Grey.white}",
+        "type": "color",
+        "description": "Foreground Inverted Link Selected\n(FG Inverted Link Selected)\n\n- Light theme\n- {Grey.white}"
+      },
+      "Brand Foreground 1": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Foreground 1\n(BFG 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Foreground 2": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Foreground 2\n(BFG 2)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Foreground 2 Hover": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand FG 2 Hover\n\nTint brand foreground hover\nLight theme\nComm 60 ({Primary.800})"
+      },
+      "Brand Foreground 2 Pressed": {
+        "value": "{Primary.900}",
+        "type": "color",
+        "description": "Brand FG 2 Pressed\n\nTint brand foreground pressed state\nLight theme\nComm 30 (#0A2E4A)"
+      },
+      "Brand Foreground Link": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Foreground Link\n(BFG Link)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Foreground Link Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Foreground Link Hover\n(BFG Link Hover)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Foreground Link Pressed": {
+        "value": "{Primary.900}",
+        "type": "color",
+        "description": "Brand Foreground Link Pressed\n(BFG Link Pressed)\n\n- Light theme\n- Comm 40 #0C3B5E"
+      },
+      "Brand Foreground Link Selected": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Foreground Link Selected\n(BFG Link Selected)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Compound Brand Foreground 1": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Compound Brand Foreground 1\n(Compound BFG 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Compound Brand Foreground 1 Hover": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Compound Brand Foreground 1 Hover\n(Compound BFG 1 Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Compound Brand Foreground 1 Pressed": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Compound Brand Foreground 1 Pressed\n(Compound BFG 1 Pressed)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      },
+      "Brand Foreground Inverted": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Foreground Inverted\n(BFG Inverted)\n\n- Light theme\n- Comm 100 #479EF5"
+      },
+      "Brand Foreground Inverted Hover": {
+        "value": "{Primary.400}",
+        "type": "color",
+        "description": "Brand Foreground Inverted Hover\n(BFG Inverted Hover)\n\n- Light theme\n- Comm 110 #62ABF5"
+      },
+      "Brand Foreground Inverted Pressed": {
+        "value": "{Primary.500}",
+        "type": "color",
+        "description": "Brand Foreground Inverted Pressed\n(BFG Inverted Pressed)\n\n- Light theme\n- Comm 100 #479EF5"
+      },
+      "Brand Foreground on Light": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Foreground on Light\n(BFG on Light)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Brand Foreground on Light Hover": {
+        "value": "{Primary.700}",
+        "type": "color",
+        "description": "Brand Foreground on Light Hover\n(BFG on Light Hover)\n\n- Light theme\n- Comm 70 {Primary.700}"
+      },
+      "Brand Foreground on Light Pressed": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand Foreground on Light Pressed\n(BFG on Light Pressed)\n\n- Light theme\n- Comm 50 {Primary.800}"
+      },
+      "Brand Foreground on Light Selected": {
+        "value": "{Primary.800}",
+        "type": "color",
+        "description": "Brand Foreground on Light Selected\n(BFG on Light Selected)\n\n- Light theme\n- Comm 60 {Primary.800}"
+      }
+    },
+    "Stroke": {
+      "Stroke 1": {
+        "value": "{Grey.82}",
+        "type": "color",
+        "description": "Stroke 1\n(SK 1)\n\n- Light theme\n- {Grey.82}"
+      },
+      "Stroke 1 Hover": {
+        "value": "{Grey.78}",
+        "type": "color",
+        "description": "Stroke 1 Hover\n(SK 1 Hover)\n\n- Light theme\n- {Grey.78}"
+      },
+      "Stroke 1 Pressed": {
+        "value": "{Grey.70}",
+        "type": "color",
+        "description": "Stroke 1 Pressed\n(SK 1 Pressed)\n\n- Light theme\n- {Grey.70}"
+      },
+      "Stroke 1 Selected": {
+        "value": "{Grey.74}",
+        "type": "color",
+        "description": "Stroke 1 Selected\n(SK 1 Selected)\n\n- Light theme\n- {Grey.74}"
+      },
+      "Stroke 2": {
+        "value": "{Grey.88}",
+        "type": "color",
+        "description": "Stroke 2\n(SK 2)\n\n- Light theme\n- {Grey.88}"
+      },
+      "Stroke 3": {
+        "value": "{Grey.94}",
+        "type": "color",
+        "description": "Stroke 3\n(SK 3)\n\n- Light theme\n- {Grey.94}"
+      },
+      "Stroke Alpha": {
+        "value": "{Black}0d",
+        "type": "color",
+        "description": "Neutral Stroke Alpha\nBlack 5%",
+        "$extensions": {}
+      },
+      "Stroke Subtle": {
+        "value": "{Grey.88}",
+        "type": "color",
+        "description": "Neutral Stroke Subtle\nLight theme\n{Grey.88}"
+      },
+      "Stroke on Brand": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Stroke on Brand\n(SK on Brand)\n\n- Light theme\n- {White}"
+      },
+      "Stroke on Brand 2": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Stroke on Brand 2\n(SK on Brand 2)\n\n- Light theme\n- {White}"
+      },
+      "Stroke on Brand 2 Hover": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Stroke on Brand 2 Hover\n(SK on Brand 2 Hover)\n\n- Light theme\n- {White}"
+      },
+      "Stroke on Brand 2 Pressed": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Stroke on Brand 2 Pressed\n(SK on Brand 2 Pressed)\n\n- Light theme\n- {White}"
+      },
+      "Stroke on Brand 2 Selected": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Stroke on Brand 2 Selected\n(SK on Brand 2 Selected)\n\n- Light theme\n- {White}"
+      },
+      "Stroke Accessible": {
+        "value": "{Grey.38}",
+        "type": "color",
+        "description": "Stroke Accessible\n(SK Accessible)\n\n- Light theme\n- {Grey.38}"
+      },
+      "Stroke Accessible Hover": {
+        "value": "{Grey.34}",
+        "type": "color",
+        "description": "Stroke Accessible Hover\n(SK Accessible Hover)\n\n- Light theme\n- {Grey.34}"
+      },
+      "Stroke Accessible Pressed": {
+        "value": "{Grey.30}",
+        "type": "color",
+        "description": "Stroke Accessible Pressed\n(SK Accessible Pressed)\n\n- Light theme\n- {Grey.30}"
+      },
+      "Stroke Accessible Selected": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Stroke Accessible Selected\n(SK Accessible Selected)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      },
+      "Stroke Disabled": {
+        "value": "{Grey.88}",
+        "type": "color",
+        "description": "Stroke Disabled\n(SK Disabled)\n\n- Light theme\n- {Grey.88}"
+      },
+      "Stroke Inverted Disabled": {
+        "value": "{White}66",
+        "type": "color",
+        "description": "Stroke Inverted Disabled\n(SK Inverted Disabled)\n\n- Light theme\n- {White.40%}"
+      },
+      "Transparent Stroke": {
+        "value": "{White}00",
+        "type": "color",
+        "description": "Transparent Stroke\n(Transparent SK)\n\n- Light theme\n- Alpha 0%"
+      },
+      "Transparent Stroke Interactive": {
+        "value": "{White}00",
+        "type": "color",
+        "description": "Transparent Stroke Interactive\n(Transparent SK Interactive)\n\n- Light theme\n- Alpha 0%"
+      },
+      "Transparent Stroke Disabled": {
+        "value": "{White}00",
+        "type": "color",
+        "description": "Transparent Stroke Disabled\n(Transparent SK Disabled)\n\n- Light theme\n- Alpha 0%"
+      },
+      "Stroke Focus 1": {
+        "value": "{White}",
+        "type": "color",
+        "description": "Stroke Focus 1\n(SK Focus 1)\n\n- Light theme\n- {White}"
+      },
+      "Stroke Focus 2": {
+        "value": "{Black}",
+        "type": "color",
+        "description": "Stroke Focus 2\n(SK Focus 2)\n\n- Light theme\n- {Black}"
+      },
+      "Brand Stroke 1": {
+        "value": "{Primary.600}",
+        "type": "color",
+        "description": "Brand Stroke 1\n(BSK 1)\n\n- Light theme\n- Comm 80 {Primary.600}"
+      }
+    },
+    "Shared": {
+      "Red BG 1": {
+        "value": "{Error.50}",
+        "type": "color",
+        "description": "Red Background 1\n(Red BG 1)\n\n- Light theme\n- Danger tint badge background\n- Red Tint 60 #FDF6F6"
+      },
+      "Red BG 3": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Red Background 3\n(Red BG 3)\n\n- Light theme\n- Danger filled badge background\n- Red Primary #D13438"
+      },
+      "Red FG 1": {
+        "value": "{Error.50}",
+        "type": "color",
+        "description": "Red Foreground 1\n(Red FG 1)\n\n- Light theme\n- Danger tint badge foreground\n- Red Shade 10 #BC2F32"
+      },
+      "Red FG 3": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Red Foreground 3\n(Red FG 3)\n\n- Light theme\n- Danger outline badge foreground\n- Red Primary #D13438"
+      },
+      "Red Border 1": {
+        "value": "{Error.200}",
+        "type": "color",
+        "description": "Red Border 1\n(Red SK 1)\n\n- Light theme\n- Danger tint badge border\n- Red Tint 40 #F1BBBC"
+      },
+      "Red Border 2": {
+        "value": "{Error.600}",
+        "type": "color",
+        "description": "Red Border 2\n(Red SK 2)\n\n- Light theme\n- Danger border on neutral background\n- Red (primary) #D13438"
+      },
+      "Green BG 1": {
+        "value": "{Success.50}",
+        "type": "color",
+        "description": "Green Background 1\n(Green BG 1)\n\n- Light theme\n- Success tint badge background\n- Green Tint 60 #F1FAF1"
+      },
+      "Green BG 3": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Green Background 3\n(Green BG 3)\n\n- Light theme\n- Success filled badge background\n- Green Primary {Success.600}"
+      },
+      "Green FG 1": {
+        "value": "{Success.50}",
+        "type": "color",
+        "description": "Green Foreground 1\n(Green FG 1)\n\n- Light theme\n- Success tint badge foreground\n- Green Shade 10 #0E700E"
+      },
+      "Green FG 3": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Green Foreground 3\n(Green FG 3)\n\n- Light theme\n- Success subtle badge foreground\n- Green Primary {Success.600}"
+      },
+      "Green Border 1": {
+        "value": "{Success.200}",
+        "type": "color",
+        "description": "Green Border 1\n(Green Border 1)\n\n- Light theme\n- Success tint badge border\n- Green Tint 40 #9FD89F"
+      },
+      "Green Border 2": {
+        "value": "{Success.600}",
+        "type": "color",
+        "description": "Green Border 2\n(Green Border 2)\n\n- Light theme\n- Success border on neutral background\n- Green Primary {Success.600}"
+      },
+      "DarkOrange BG 1": {
+        "value": "{Warning.50}",
+        "type": "color",
+        "description": "DarkOrange Background 1\n(DarkOrange BG 1)\n\n- Light theme\n- Severe tint badge background\n- Dark Orange Tint 60 #FDF6F3"
+      },
+      "DarkOrange BG 3": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "DarkOrange Background 3\n(DarkOrange BG 3)\n\n- Light theme\n- Severe filled badge background\n- Dark Orange Primary {Warning.600}"
+      },
+      "DarkOrange FG 1": {
+        "value": "{Warning.50}",
+        "type": "color",
+        "description": "DarkOrange Foreground 1\n(DarkOrange FG 1)\n\n- Light theme\n- Severe tint badge foreground\n- Dark Orange Shade 10 #C43501"
+      },
+      "DarkOrange FG 3": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "DarkOrange Foreground 3\n(DarkOrange FG 3)\n\n- Light theme\n- Severe outline and subtle badge foreground\n- Dark Orange Primary {Warning.600}"
+      },
+      "DarkOrange Border 1": {
+        "value": "{Warning.200}",
+        "type": "color",
+        "description": "DarkOrange Border 1\n(DarkOrange SK 1)\n\n- Light theme\n- Severe tint badge border\n- Dark Orange Tint 40 #F4BFAB"
+      },
+      "DarkOrange Border 2": {
+        "value": "{Warning.600}",
+        "type": "color",
+        "description": "DarkOrange Border 1\n(DarkOrange SK 1)\n\n- Light theme\n- Severe tint badge border\n- Dark Orange Tint 40 #F4BFAB"
+      }
+    }
+  },
   "Border Radius/Base": {
     "BorderRadius": {
       "Base": {
@@ -2047,7 +2888,8 @@
       "group": "Theme",
       "selectedTokenSets": {
         "Theme/Light": "enabled",
-        "Core": "source"
+        "Core": "source",
+        "Theme/Dark": "disabled"
       },
       "$figmaStyleReferences": {
         "colors.Pallete.Neutral.50": "S:b7784f0bc489d512f99d49b2c5b96c1cfb861e9c,",
@@ -2803,7 +3645,8 @@
       "group": "Border radius",
       "selectedTokenSets": {
         "Border Radius/Base": "enabled",
-        "Core": "source"
+        "Core": "source",
+        "Theme/Dark": "disabled"
       },
       "$figmaStyleReferences": {},
       "$figmaVariableReferences": {
@@ -2820,7 +3663,8 @@
       "group": "Language",
       "selectedTokenSets": {
         "Core": "source",
-        "Language/English": "enabled"
+        "Language/English": "enabled",
+        "Theme/Dark": "disabled"
       },
       "$figmaStyleReferences": {},
       "$figmaVariableReferences": {
@@ -2848,7 +3692,8 @@
       "group": "Language",
       "selectedTokenSets": {
         "Core": "source",
-        "Language/Russian": "enabled"
+        "Language/Russian": "enabled",
+        "Theme/Dark": "disabled"
       },
       "$figmaStyleReferences": {},
       "$figmaVariableReferences": {
@@ -2875,6 +3720,7 @@
     "tokenSetOrder": [
       "Core",
       "Theme/Light",
+      "Theme/Dark",
       "Border Radius/Base",
       "Language/English",
       "Language/Russian"
